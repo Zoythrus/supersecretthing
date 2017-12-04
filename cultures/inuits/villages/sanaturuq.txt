@@ -1,0 +1,58 @@
+name:Sanaturuq
+weight:10
+
+carriesraid:true
+
+pathmaterial:pathdirt
+pathmaterial:pathgravel
+pathmaterial:pathgravelslabs
+
+biome:plains
+biome:tundra
+biome:taiga
+biome:ice plains
+
+//extraBiomes mod
+
+biome:ice mountains
+biome:birch forest
+biome:autumn woods
+
+//starting buildings:
+centre:tannery
+start:lumberman
+start:grove
+start:fisherman
+start:sodder
+
+//player:playersmallplot
+//player:playerigloo
+//player:playerlargeplot
+//player:playerbigigloo
+//player:playerhugeplot
+//player:bison
+
+//to be built in priority
+core:foodpreparer
+core:animistic
+core:farmW
+core:shaman
+core:sodder
+core:market
+core:armoury
+
+//to be built after the core ones
+secondary:carver
+secondary:farmW
+secondary:guesthouse
+never:offering
+
+//Selling prices:
+sellingPrice:bread,7
+
+
+//Buying prices:
+buyingPrice:cobblestone,2
+buyingPrice:stone,4
+buyingPrice:bread,5
+buyingPrice:woodHoe,10
