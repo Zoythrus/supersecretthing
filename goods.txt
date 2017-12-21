@@ -40,7 +40,7 @@ cactus;minecraft:cactus;0;Cactus
 cake;minecraft:cake;0;Cake
 calva;millenaire:item.ml_calva;0;item.ml_calva.name
 carrot;minecraft:carrot;0;Carrot
-carving;inuitmaterials:carving;0;Carving (WIP)
+carving;milladon:blockUnknown;0;Carving
 chainboots;minecraft:chainmail_boots;0;Chain Boots
 chainchest;minecraft:chainmail_chestplate;0;Chain Chestplate
 chainhelmet;minecraft:chainmail_helmet;0;Chain Helmet

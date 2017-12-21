@@ -338,4 +338,4 @@ sod_oak;inuitmaterials:sodPlanks;0
 sod_spruce;inuitmaterials:sodPlanks;1
 sod_birch;inuitmaterials:sodPlanks;2
 sod_jungle;inuitmaterials:sodPlanks;3
-carving;inuitmaterials:carving;0
+carving;milladon:blockUnknown;0
