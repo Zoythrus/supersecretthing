@@ -13,8 +13,8 @@ Sand: 286
 tile.ml_panes.name: 864
 Gravel: 691
 Cobblestone: 1986
-Iron Ingot: 108
 Stone: 12254
+Iron Ingot: 108
 Fern: 117
 Grass: 263
 Wool: 304
@@ -47,9 +47,9 @@ tile.ml_panes.name: 810
 Gravel: 594
 Cobblestone: 1594
 Stone: 11198
-Grass: 263
 Fern: 195
 Iron Ingot: 36
+Grass: 263
 Wool: 306
 
 nogyo resource use: 
@@ -65,9 +65,9 @@ tile.ml_panes.name: 610
 Gravel: 565
 Cobblestone: 1427
 Stone: 9357
-Fern: 117
 Grass: 263
 Iron Ingot: 18
+Fern: 117
 Wool: 182
 
 japanese_customcontrolled resource use: 
@@ -85,10 +85,10 @@ Sand: 286
 tile.ml_panes.name: 681
 Gravel: 527
 Cobblestone: 1423
-Grass: 263
 Stone: 10795
-Fern: 117
 Iron Ingot: 90
+Fern: 117
+Grass: 263
 Wool: 195
 
 
@@ -179,14 +179,14 @@ ipqitchuq resource use:
 Ice: 311
 Wood (any): 555
 Spruce Wood: 382
-Birch Wood: 654
 Oak Wood: 16
+Birch Wood: 654
 Snow: 1149
 Snow: 2368
 Carving: 12
 Gravel: 32
-Sod Spruce Planks: 388
 Sod Birch Planks: 212
+Sod Spruce Planks: 388
 Cobblestone: 156
 Iron Ingot: 56
 Wool: 61
@@ -201,9 +201,9 @@ Snow: 1357
 Snow: 2457
 Carving: 4
 Gravel: 12
-Cobblestone: 512
 Sod Spruce Planks: 491
 Sod Birch Planks: 204
+Cobblestone: 512
 Stone: 62
 Iron Ingot: 28
 Wool: 61
@@ -218,11 +218,11 @@ Snow: 1228
 Snow: 2615
 Carving: 4
 Gravel: 12
-Sod Spruce Planks: 429
-Sod Birch Planks: 243
 Cobblestone: 512
-Stone: 62
+Sod Birch Planks: 243
+Sod Spruce Planks: 429
 Iron Ingot: 28
+Stone: 62
 Wool: 61
 
 
@@ -375,9 +375,9 @@ Wood (any): 1184
 Oak Wood: 2520
 Bookshelf: 6
 Cobblestone: 5900
+Iron Ingot: 61
 Glass: 322
 Stone: 5758
-Iron Ingot: 61
 Wool: 185
 
 hameau_artisans resource use: 
@@ -408,14 +408,14 @@ Wood (any): 1214
 Oak Wood: 2905
 Bookshelf: 6
 Cobblestone: 5253
-Glass: 299
 Stone: 4589
+Glass: 299
 Iron Ingot: 25
 Wool: 181
 
 hameau_abbatiale resource use: 
-tile.ml_wood_deco.0.name: 600
 tile.ml_wood_deco.1.name: 304
+tile.ml_wood_deco.0.name: 600
 Wood (any): 398
 Oak Wood: 1175
 Cobblestone: 2313
@@ -424,28 +424,28 @@ Stone: 1009
 Wool: 42
 
 militaire resource use: 
-tile.ml_wood_deco.1.name: 389
 tile.ml_wood_deco.0.name: 1054
+tile.ml_wood_deco.1.name: 389
 Wood (any): 918
 Oak Wood: 2093
 Bookshelf: 6
 Cobblestone: 8141
+Iron Ingot: 43
 Glass: 249
 Stone: 4180
-Iron Ingot: 43
 Wool: 167
 item.ml_tapestry.name: 5
 
 grosbourg resource use: 
-tile.ml_wood_deco.1.name: 212
 tile.ml_wood_deco.0.name: 611
+tile.ml_wood_deco.1.name: 212
 Wood (any): 730
 Oak Wood: 1374
 Bookshelf: 6
 Cobblestone: 7265
+Iron Ingot: 61
 Glass: 242
 Stone: 4586
-Iron Ingot: 61
 Wool: 116
 item.ml_tapestry.name: 5
 
@@ -456,9 +456,9 @@ Wood (any): 1143
 Oak Wood: 2525
 Bookshelf: 6
 Cobblestone: 8472
-Stone: 4881
 Glass: 317
 Iron Ingot: 61
+Stone: 4881
 Wool: 196
 item.ml_tapestry.name: 5
 
