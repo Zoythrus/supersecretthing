@@ -1,6 +1,6 @@
-newchat;key:rain,tag:notraining,weigth:10
+﻿newchat;key:rain,tag:notraining,weigth:10
 v1;0;kisu qanniqtuq? / Is it snowing?
-v2;30;aamai qiuvit?? / It looks like snow, but doesn't seem to be cold.
+v2;30;aamai qiuvit?? / It looks like snow but doesn't seem to be cold?
 
 newchat;key:rain,tag:raining,weigth:10
 v1;0;quiaakka, upinnaiturivaa? / I don't seem to feel cold or hot anymore, is this normal?
@@ -28,7 +28,7 @@ v1;120;saipaaqsauti / Poor guy.
 newchat;key:japanese,v1:adult,v2:adult,weigth:5
 v1;0;ualiniq immikkuurtuq qallunaat nirrimaatsiutit iqaluk! / Those Japanese people sure know how to prepare fish!
 v2;30;"nirrimaatsiutit" iqaluk? uugitsanguivuq, ii? / "Prepare" fish? You just mean they cook it, right?
-v1;60;aakka nirrimaatsiutit papa mamaqtuq. / No, I mean they serve their food with all of these elaborate methods and flavors.
+v1;60;aakka nirrimaatsiutit papa mamaqtuq. / No I mean they serve their food with all of these elaborate methods and flavors.
 v2;90;aungajuaq mamailliungusuttuq tangiq aakka? / Food can taste different without just being spoiled?
 v1;120;siaruulaaqtumi suurmi! / Yeah you should come with me next time I check them out!
 
@@ -64,11 +64,11 @@ newchat;key:meat,weigth:10
 v1;0;pijurivaa niqituinnaq nangminiqaqatiujjutit, uumisuttuq niqiinniatuq / I think our meat stores are running low, I hate when we run out.
 v1;30;niqituinnaq aakka qaluniq / Meat is just not the same as stews...
 v2;60;qaluniq pigivaa niqituinnaq? / But most stews have meat in them?
-v1;90;qaluniq aakka niqituinnaq... / Yeah, but it just isn't the same...
+v1;90;qaluniq aakka niqituinnaq... / Yeah but it just isn't the same...
 
 newchat;key:carribou,weigth:10
 v1;0;nauk tuttuq? uggualuppuq tuttuvinik / Where are all the caribou? I miss caribou meat.
-v2;30;tuttuliaq aakka pitsasiaq tuttuq. / We have had many hunts, but none have found any caribou.
+v2;30;tuttuliaq aakka pitsasiaq tuttuq. / We have had many hunts but none have found any caribou.
 v2;60;pitsasiaq immuksiugaq! / We have found plenty of what looks like bison though!
 v1;60;kiinaujat piiqsiviulauqtinnagit, uumisuttuq immuksiugaq, tuttuq ikullajuq. / Yuck, I hate bison, caribou is better.
 v2;90;tamualitiqpait iqaluk, minallakaat. / Well then have the fish, we have lots of that.
@@ -101,6 +101,6 @@ v2;30;piusivuq uummajuqsutuq! / You're quickly becoming a great hunter!
 v1;90;ii isumanaqtuq? / You really think so?
 
 newchat;key:foodpreparer,building:foodpreparer,weigth:10
-v1;0;takutsugusuppuq pujaniq niqituinnaq igaarniq niq?iuqti. / I love the smell of meat cooking from the food preparer.
+v1;0;takutsugusuppuq pujaniq niqituinnaq igaarniq niqłiuqti. / I love the smell of meat cooking from the food preparer.
 v2;30;aamai mikitjipuq, surratippaa nainguumivuq. / I don't know I usually prefer my meat uncooked, it changes the taste.
 v1;60;ua taamannak asianngutuq uuppaa. / Hey I like that changed taste!

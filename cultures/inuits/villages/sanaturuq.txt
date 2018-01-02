@@ -7,7 +7,6 @@ pathmaterial:pathdirt
 pathmaterial:pathgravel
 pathmaterial:pathgravelslabs
 
-biome:plains
 biome:tundra
 biome:taiga
 biome:ice plains
