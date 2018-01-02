@@ -120,9 +120,13 @@
 |-
 ! Napaaqtuq
 |-
+! Smalliquk Tupik
+|-
 ! Tuniglaktubvik
 |-
 ! Angakok Kashim
+|-
+! Mediqik Tupik
 |-
 ! Afuniaqti tupiq
 |-
@@ -282,6 +286,8 @@
 |-
 ! Carrière
 |-
+! Armurerie~largefort_A_armoury
+|-
 ! Marché
 |-
 ! Hutte de Bûcheron~lonelumbermanhut
@@ -294,7 +300,11 @@
 |-
 ! Elevage Bovin
 |-
+! Salle des guardes
+|-
 ! Relais
+|-
+! Forteresse
 |-
 ! Tour d�truite
 |-
@@ -336,7 +346,7 @@
 |-
 ! Hall de la Guilde
 |-
-! Armurerie
+! Armurerie~armoury
 |-
 ! Bosquet
 |-

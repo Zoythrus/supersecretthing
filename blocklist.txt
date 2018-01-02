@@ -144,6 +144,7 @@ doorTop;;0;;70/0/128
 doorBottom;;0;;71/0/128
 doorLeft;;0;;72/0/128
 doorRight;;0;;73/0/128
+doorLeft;;1;;74/0/128
 irondoorTop;;0;;70/200/200
 irondoorBottom;;0;;71/200/200
 irondoorLeft;;0;;72/200/200

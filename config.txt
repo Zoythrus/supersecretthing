@@ -146,4 +146,4 @@ forbidden_blocks=
 //Main game language, used when available. Leave empty to have Millénaire use Minecraft's language (when possible). Value has to be one of the directory name in languages/
 language=
 
-devmode=false
+devmode=true

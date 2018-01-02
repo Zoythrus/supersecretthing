@@ -25,7 +25,7 @@ start:grove
 start:fisherman
 start:sodder
 
-//player:playersmallplot
+player:smallhouse
 //player:playerigloo
 //player:playerlargeplot
 //player:playerbigigloo
@@ -43,7 +43,7 @@ core:armoury
 
 //to be built after the core ones
 secondary:carver
-secondary:farmW
+secondary:farmP
 secondary:guesthouse
 never:offering
 

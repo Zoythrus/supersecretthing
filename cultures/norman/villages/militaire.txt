@@ -27,7 +27,7 @@ pathmaterial:pathgravel
 pathmaterial:pathslabs
 
 //starting buildings:
-centre:fort
+centre:largefort
 start:pigfarm
 start:watchtower
 start:guardhouse

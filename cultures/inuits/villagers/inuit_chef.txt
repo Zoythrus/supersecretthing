@@ -20,25 +20,23 @@ goal=cookpotato
 
 goal=plantpotatohome
 goal=plantwheathome
-goal=harvestwheathome
 
-goal=getGoodsHousehold
-goal=deliverGoodsHousehold
+goal=harvestwheathome
 goal=harvestpotatohome
 
 collectGood=seeds
 collectGood=wheat
 collectGood=potato
 
+bringBackHomeGood=potato
+bringBackHomeGood=wheat
+
 toolneeded=woodhoe
 
-startinginv=potato,5
+startinginv=potato,10
 startinginv=seeds,64
 
-requiredGood=wheat,9
-requiredGood=fishraw,5
-requiredGood=beefraw,5
-requiredGood=potato,10
+
 
 baseAttackStrength=5
 tag=helpInAttacks

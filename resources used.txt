@@ -1,3 +1,12 @@
+
+
+
+Buildings with signs (not panels):
+
+
+
+
+
 japanese: 
 seiji resource use: 
 tile.ml_wood_deco.2.name: 9180
@@ -14,9 +23,9 @@ tile.ml_panes.name: 864
 Gravel: 691
 Cobblestone: 1986
 Stone: 12254
+Grass: 263
 Iron Ingot: 108
 Fern: 117
-Grass: 263
 Wool: 304
 
 japanese_controlled resource use: 
@@ -65,9 +74,9 @@ tile.ml_panes.name: 610
 Gravel: 565
 Cobblestone: 1427
 Stone: 9357
-Grass: 263
 Iron Ingot: 18
 Fern: 117
+Grass: 263
 Wool: 182
 
 japanese_customcontrolled resource use: 
@@ -87,8 +96,8 @@ Gravel: 527
 Cobblestone: 1423
 Stone: 10795
 Iron Ingot: 90
-Fern: 117
 Grass: 263
+Fern: 117
 Wool: 195
 
 
@@ -176,54 +185,57 @@ tile.ml_panes.name: 36
 
 inuits: 
 ipqitchuq resource use: 
-Ice: 311
-Wood (any): 555
-Spruce Wood: 382
+Ice: 151
+Wood (any): 616
+Birch Wood: 749
+Spruce Wood: 393
 Oak Wood: 16
-Birch Wood: 654
-Snow: 1149
-Snow: 2368
+Snow: 1447
+Snow: 2480
 Carving: 12
 Gravel: 32
-Sod Birch Planks: 212
-Sod Spruce Planks: 388
-Cobblestone: 156
+Cobblestone: 210
+Sod Spruce Planks: 411
+Sod Oak Planks: 12
+Sod Birch Planks: 210
 Iron Ingot: 56
-Wool: 61
+Wool: 9
 
 afuniaqtuq  resource use: 
-Ice: 554
-Wood (any): 653
-Spruce Wood: 875
-Birch Wood: 511
+Ice: 234
+Wood (any): 716
+Birch Wood: 607
+Spruce Wood: 886
 Oak Wood: 16
-Snow: 1357
-Snow: 2457
+Snow: 1655
+Snow: 2568
 Carving: 4
 Gravel: 12
-Sod Spruce Planks: 491
-Sod Birch Planks: 204
-Cobblestone: 512
-Stone: 62
+Cobblestone: 566
+Sod Spruce Planks: 526
+Sod Oak Planks: 18
+Sod Birch Planks: 202
 Iron Ingot: 28
-Wool: 61
+Stone: 62
+Wool: 9
 
 sanaturuq resource use: 
-Ice: 311
-Wood (any): 652
-Birch Wood: 400
-Spruce Wood: 906
+Ice: 151
+Wood (any): 706
 Oak Wood: 16
-Snow: 1228
-Snow: 2615
+Spruce Wood: 917
+Birch Wood: 495
+Snow: 1510
+Snow: 2726
 Carving: 4
 Gravel: 12
-Cobblestone: 512
-Sod Birch Planks: 243
-Sod Spruce Planks: 429
-Iron Ingot: 28
+Cobblestone: 566
+Sod Spruce Planks: 452
+Sod Birch Planks: 241
+Sod Oak Planks: 12
 Stone: 62
-Wool: 61
+Iron Ingot: 28
+Wool: 9
 
 
 byzantines: 
@@ -359,26 +371,27 @@ customcontrolled resource use:
 
 ecclesiastique resource use: 
 tile.ml_wood_deco.1.name: 537
-tile.ml_wood_deco.0.name: 1271
-Wood (any): 1097
-Oak Wood: 2441
+tile.ml_wood_deco.0.name: 1293
+Wood (any): 1323
+Oak Wood: 2913
 Bookshelf: 6
-Cobblestone: 5645
+Cobblestone: 6044
 Glass: 278
-Stone: 4782
-Wool: 172
+Stone: 6805
+Iron Ingot: 34
+Wool: 184
 
 artisans resource use: 
 tile.ml_wood_deco.1.name: 495
-tile.ml_wood_deco.0.name: 1264
-Wood (any): 1184
-Oak Wood: 2520
+tile.ml_wood_deco.0.name: 1286
+Wood (any): 1410
+Oak Wood: 2992
 Bookshelf: 6
-Cobblestone: 5900
-Iron Ingot: 61
+Cobblestone: 6299
 Glass: 322
-Stone: 5758
-Wool: 185
+Stone: 7781
+Iron Ingot: 95
+Wool: 197
 
 hameau_artisans resource use: 
 tile.ml_wood_deco.1.name: 162
@@ -403,15 +416,15 @@ item.ml_tapestry.name: 5
 
 agricole resource use: 
 tile.ml_wood_deco.1.name: 655
-tile.ml_wood_deco.0.name: 1608
-Wood (any): 1214
-Oak Wood: 2905
+tile.ml_wood_deco.0.name: 1630
+Wood (any): 1440
+Oak Wood: 3377
 Bookshelf: 6
-Cobblestone: 5253
-Stone: 4589
+Cobblestone: 5652
 Glass: 299
-Iron Ingot: 25
-Wool: 181
+Stone: 6612
+Iron Ingot: 59
+Wool: 193
 
 hameau_abbatiale resource use: 
 tile.ml_wood_deco.1.name: 304
@@ -424,42 +437,28 @@ Stone: 1009
 Wool: 42
 
 militaire resource use: 
-tile.ml_wood_deco.0.name: 1054
 tile.ml_wood_deco.1.name: 389
-Wood (any): 918
-Oak Wood: 2093
+tile.ml_wood_deco.0.name: 1098
+Wood (any): 1252
+Oak Wood: 2809
 Bookshelf: 6
-Cobblestone: 8141
-Iron Ingot: 43
+Cobblestone: 5994
 Glass: 249
-Stone: 4180
-Wool: 167
-item.ml_tapestry.name: 5
-
-grosbourg resource use: 
-tile.ml_wood_deco.0.name: 611
-tile.ml_wood_deco.1.name: 212
-Wood (any): 730
-Oak Wood: 1374
-Bookshelf: 6
-Cobblestone: 7265
-Iron Ingot: 61
-Glass: 242
-Stone: 4586
-Wool: 116
-item.ml_tapestry.name: 5
+Stone: 8064
+Iron Ingot: 111
+Wool: 185
 
 bourg_autonome resource use: 
 tile.ml_wood_deco.1.name: 518
-tile.ml_wood_deco.0.name: 1304
-Wood (any): 1143
-Oak Wood: 2525
+tile.ml_wood_deco.0.name: 1326
+Wood (any): 1369
+Oak Wood: 2997
 Bookshelf: 6
-Cobblestone: 8472
+Cobblestone: 8871
 Glass: 317
-Iron Ingot: 61
-Stone: 4881
-Wool: 196
+Stone: 6904
+Iron Ingot: 95
+Wool: 208
 item.ml_tapestry.name: 5
 
 
@@ -733,9 +732,9 @@ mayan:
 military resource use: 
 Sandstone: 5
 Wood (any): 1080
+Bookshelf: 48
 Oak Wood: 555
 Tropical Wood: 136
-Bookshelf: 48
 Cobblestone: 16706
 Stone: 10936
 item.ml_mayanstatue.name: 3
@@ -754,9 +753,9 @@ tile.ml_stone_deco.2.name: 91
 agriculture resource use: 
 Sandstone: 13
 Wood (any): 1208
+Bookshelf: 48
 Oak Wood: 727
 Tropical Wood: 332
-Bookshelf: 48
 Cobblestone: 17776
 Stone: 13014
 item.ml_mayanstatue.name: 8
@@ -766,9 +765,9 @@ tile.ml_stone_deco.2.name: 147
 religious resource use: 
 Sandstone: 136
 Wood (any): 998
+Bookshelf: 48
 Oak Wood: 486
 Tropical Wood: 178
-Bookshelf: 48
 Cobblestone: 15884
 Stone: 11641
 item.ml_mayanstatue.name: 6
@@ -5492,7 +5491,7 @@ Upgrade 1
 | style="text-align: center; "|27
 |-
 | style="text-align: center; "|Wood (any)
-| style="text-align: center; "|16
+| style="text-align: center; "|17
 |-
 | style="text-align: center; "|Spruce Wood
 | style="text-align: center; "|57
@@ -5540,7 +5539,7 @@ Upgrade 4
 ! scope="col"|Quantity
 |-
 | style="text-align: center; "|Snow
-| style="text-align: center; "|27
+| style="text-align: center; "|26
 |-
 | style="text-align: center; "|Wood (any)
 | style="text-align: center; "|9
@@ -5563,7 +5562,7 @@ Upgrade 5
 | style="text-align: center; "|33
 |-
 | style="text-align: center; "|Wood (any)
-| style="text-align: center; "|9
+| style="text-align: center; "|10
 |-
 | style="text-align: center; "|Spruce Wood
 | style="text-align: center; "|75
@@ -5616,13 +5615,10 @@ Upgrade 1
 | style="text-align: center; "|2
 |-
 | style="text-align: center; "|Spruce Wood
-| style="text-align: center; "|1
+| style="text-align: center; "|3
 |-
 | style="text-align: center; "|Birch Wood
 | style="text-align: center; "|64
-|-
-| style="text-align: center; "|Wool
-| style="text-align: center; "|10
 |}
 
 
@@ -5647,7 +5643,7 @@ Upgrade 2
 | style="text-align: center; "|Cobblestone
 | style="text-align: center; "|10
 |-
-| style="text-align: center; "|Wool
+| style="text-align: center; "|Sod Oak Planks
 | style="text-align: center; "|6
 |}
 
@@ -5721,7 +5717,7 @@ Upgrade 1
 | style="text-align: center; "|25
 |-
 | style="text-align: center; "|Birch Wood
-| style="text-align: center; "|24
+| style="text-align: center; "|25
 |-
 | style="text-align: center; "|Cobblestone
 | style="text-align: center; "|16
@@ -5741,22 +5737,22 @@ Upgrade 2
 | style="text-align: center; "|15
 |-
 | style="text-align: center; "|Wood (any)
-| style="text-align: center; "|21
+| style="text-align: center; "|22
 |-
 | style="text-align: center; "|Spruce Wood
-| style="text-align: center; "|13
+| style="text-align: center; "|21
 |-
 | style="text-align: center; "|Birch Wood
-| style="text-align: center; "|21
+| style="text-align: center; "|22
 |-
 | style="text-align: center; "|Cobblestone
 | style="text-align: center; "|16
 |-
+| style="text-align: center; "|Sod Spruce Planks
+| style="text-align: center; "|12
+|-
 | style="text-align: center; "|Iron Ingot
 | style="text-align: center; "|7
-|-
-| style="text-align: center; "|Wool
-| style="text-align: center; "|38
 |}
 
 
@@ -5788,10 +5784,10 @@ Upgrade 1
 ! scope="col"|Quantity
 |-
 | style="text-align: center; "|Snow
-| style="text-align: center; "|136
+| style="text-align: center; "|132
 |-
 | style="text-align: center; "|Wood (any)
-| style="text-align: center; "|13
+| style="text-align: center; "|14
 |-
 | style="text-align: center; "|Spruce Wood
 | style="text-align: center; "|1
@@ -5808,10 +5804,10 @@ Upgrade 2
 ! scope="col"|Quantity
 |-
 | style="text-align: center; "|Snow
-| style="text-align: center; "|97
+| style="text-align: center; "|93
 |-
 | style="text-align: center; "|Wood (any)
-| style="text-align: center; "|1
+| style="text-align: center; "|2
 |}
 
 
@@ -5878,7 +5874,7 @@ Upgrade 1
 | style="text-align: center; "|18
 |-
 | style="text-align: center; "|Spruce Wood
-| style="text-align: center; "|7
+| style="text-align: center; "|8
 |}
 
 
@@ -5898,10 +5894,10 @@ Upgrade 2
 | style="text-align: center; "|15
 |-
 | style="text-align: center; "|Sod Spruce Planks
-| style="text-align: center; "|77
+| style="text-align: center; "|76
 |-
 | style="text-align: center; "|Sod Birch Planks
-| style="text-align: center; "|78
+| style="text-align: center; "|76
 |}
 
 
@@ -6022,7 +6018,7 @@ Initial Construction
 | style="text-align: center; "|3
 |-
 | style="text-align: center; "|Wood (any)
-| style="text-align: center; "|31
+| style="text-align: center; "|32
 |-
 | style="text-align: center; "|Oak Wood
 | style="text-align: center; "|16
@@ -6038,9 +6034,6 @@ Initial Construction
 |-
 | style="text-align: center; "|Sod Birch Planks
 | style="text-align: center; "|87
-|-
-| style="text-align: center; "|Wool
-| style="text-align: center; "|3
 |}
 
 
@@ -6121,6 +6114,33 @@ Upgrade 1
 |-
 | style="text-align: center; "|Sod Spruce Planks
 | style="text-align: center; "|30
+|}
+
+
+Smalliquk Tupik
+smallhouse
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Snow
+| style="text-align: center; "|35
+|-
+| style="text-align: center; "|Wood (any)
+| style="text-align: center; "|13
+|-
+| style="text-align: center; "|Snow
+| style="text-align: center; "|149
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|8
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|3
 |}
 
 
@@ -6306,6 +6326,33 @@ Upgrade 6
 |}
 
 
+Mediqik Tupik
+mediumhouse
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Snow
+| style="text-align: center; "|50
+|-
+| style="text-align: center; "|Wood (any)
+| style="text-align: center; "|31
+|-
+| style="text-align: center; "|Birch Wood
+| style="text-align: center; "|91
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|38
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|3
+|}
+
+
 Afuniaqti tupiq
 hunter
 
@@ -6429,9 +6476,6 @@ Upgrade 1
 | style="text-align: center; "|Snow
 | style="text-align: center; "|15
 |-
-| style="text-align: center; "|Ice
-| style="text-align: center; "|83
-|-
 | style="text-align: center; "|Wood (any)
 | style="text-align: center; "|5
 |-
@@ -6449,9 +6493,6 @@ Upgrade 2
 | style="text-align: center; "|Snow
 | style="text-align: center; "|11
 |-
-| style="text-align: center; "|Ice
-| style="text-align: center; "|77
-|-
 | style="text-align: center; "|Wood (any)
 | style="text-align: center; "|13
 |-
@@ -6459,7 +6500,13 @@ Upgrade 2
 | style="text-align: center; "|20
 |-
 | style="text-align: center; "|Birch Wood
-| style="text-align: center; "|7
+| style="text-align: center; "|8
+|-
+| style="text-align: center; "|Sod Spruce Planks
+| style="text-align: center; "|12
+|-
+| style="text-align: center; "|Sod Oak Planks
+| style="text-align: center; "|6
 |}
 
 
@@ -6524,10 +6571,7 @@ Upgrade 1
 | style="text-align: center; "|41
 |-
 | style="text-align: center; "|Birch Wood
-| style="text-align: center; "|62
-|-
-| style="text-align: center; "|Wool
-| style="text-align: center; "|4
+| style="text-align: center; "|63
 |}
 
 
@@ -10702,6 +10746,33 @@ Upgrade 6
 |}
 
 
+Armurerie
+largefort_A_armoury
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wood (any)
+| style="text-align: center; "|22
+|-
+| style="text-align: center; "|Oak Wood
+| style="text-align: center; "|7
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|49
+|-
+| style="text-align: center; "|Iron Ingot
+| style="text-align: center; "|9
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|9
+|}
+
+
 Marché
 market
 
@@ -11052,6 +11123,33 @@ Upgrade 7
 |}
 
 
+Salle des guardes
+largefort_A_barrack
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|tile.ml_wood_deco.0.name
+| style="text-align: center; "|26
+|-
+| style="text-align: center; "|tile.ml_wood_deco.1.name
+| style="text-align: center; "|4
+|-
+| style="text-align: center; "|Wood (any)
+| style="text-align: center; "|10
+|-
+| style="text-align: center; "|Oak Wood
+| style="text-align: center; "|10
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|6
+|}
+
+
 Relais
 guesthouse
 
@@ -11103,6 +11201,156 @@ Upgrade 3
 |-
 | style="text-align: center; "|tile.ml_wood_deco.1.name
 | style="text-align: center; "|20
+|}
+
+
+Forteresse
+largefort
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wood (any)
+| style="text-align: center; "|47
+|-
+| style="text-align: center; "|Oak Wood
+| style="text-align: center; "|129
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|229
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wood (any)
+| style="text-align: center; "|13
+|-
+| style="text-align: center; "|Oak Wood
+| style="text-align: center; "|43
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wood (any)
+| style="text-align: center; "|13
+|-
+| style="text-align: center; "|Oak Wood
+| style="text-align: center; "|183
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wood (any)
+| style="text-align: center; "|18
+|-
+| style="text-align: center; "|Oak Wood
+| style="text-align: center; "|12
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|103
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|281
+|-
+| style="text-align: center; "|Iron Ingot
+| style="text-align: center; "|2
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|6
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|tile.ml_wood_deco.0.name
+| style="text-align: center; "|22
+|-
+| style="text-align: center; "|Wood (any)
+| style="text-align: center; "|47
+|-
+| style="text-align: center; "|Oak Wood
+| style="text-align: center; "|32
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|164
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|233
+|-
+| style="text-align: center; "|Iron Ingot
+| style="text-align: center; "|18
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wood (any)
+| style="text-align: center; "|8
+|-
+| style="text-align: center; "|Oak Wood
+| style="text-align: center; "|14
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|44
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|178
+|-
+| style="text-align: center; "|Iron Ingot
+| style="text-align: center; "|6
+|-
+| style="text-align: center; "|Wool
+| style="text-align: center; "|6
+|}
+
+
+Upgrade 6
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wood (any)
+| style="text-align: center; "|80
+|-
+| style="text-align: center; "|Oak Wood
+| style="text-align: center; "|59
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|88
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|1102
+|-
+| style="text-align: center; "|Iron Ingot
+| style="text-align: center; "|8
 |}
 
 

@@ -516,36 +516,36 @@
 |Ieeiaqsiruq = <table><tr><td style="vertical-align:top;">
 <table class="reqirements"><tr><th scope="col" style="text-align:center;"></th><td>[[File:Wood_Any.gif|32px|Wood (any)]]</td><td>[[File:Wood_Pine.png|32px|Spruce Wood]]</td><td>[[File:Unknown Pict:net.minecraft.item.ItemSnow@7aad3f7d/0|32px|Snow]]</td><td>[[File:Unknown Pict:net.minecraft.item.ItemBlock@79ab34c1/0|32px|Snow]]</td><td>[[File:Unknown Pict:inuitMaterials.block.ItemBlockSodPlank@7b3207/1|32px|Sod Spruce Planks]]</td><td>[[File:Stone.png|32px|Stone]]</td><td>[[File:Cobblestone.png|32px|Cobblestone]]</td></tr>
 <tr><th scope="row">Construction</th><td>31</td><td></td><td>119</td><td>233</td><td></td><td></td><td>8</td></tr>
-<tr><th scope="row">Upgrade 1</th><td>16</td><td>57</td><td>27</td><td></td><td></td><td></td><td></td></tr>
+<tr><th scope="row">Upgrade 1</th><td>17</td><td>57</td><td>27</td><td></td><td></td><td></td><td></td></tr>
 <tr><th scope="row">Upgrade 2</th><td>8</td><td>103</td><td>22</td><td></td><td></td><td></td><td></td></tr>
 <tr><th scope="row">Upgrade 3</th><td>9</td><td>142</td><td>26</td><td></td><td></td><td></td><td></td></tr>
-<tr><th scope="row">Upgrade 4</th><td>9</td><td>89</td><td>27</td><td></td><td></td><td></td><td>209</td></tr>
-<tr><th scope="row">Upgrade 5</th><td>9</td><td>75</td><td>33</td><td></td><td>41</td><td>62</td><td>203</td></tr>
+<tr><th scope="row">Upgrade 4</th><td>9</td><td>89</td><td>26</td><td></td><td></td><td></td><td>209</td></tr>
+<tr><th scope="row">Upgrade 5</th><td>10</td><td>75</td><td>33</td><td></td><td>41</td><td>62</td><td>203</td></tr>
 </table>
 </table>
 
 |Kashim = <table><tr><td style="vertical-align:top;">
-<table class="reqirements"><tr><th scope="col" style="text-align:center;"></th><td>[[File:Unknown Pict:net.minecraft.item.ItemBlock@38fbf42c/0|32px|Carving]]</td><td>[[File:White_Wool.png|32px|Wool]]</td><td>[[File:Gravel.png|32px|Gravel]]</td><td>[[File:Wood_Any.gif|32px|Wood (any)]]</td><td>[[File:Wood_Pine.png|32px|Spruce Wood]]</td><td>[[File:Wood_Birch.png|32px|Birch Wood]]</td><td>[[File:Unknown Pict:net.minecraft.item.ItemSnow@7aad3f7d/0|32px|Snow]]</td><td>[[File:Unknown Pict:net.minecraft.item.ItemBlock@79ab34c1/0|32px|Snow]]</td><td>[[File:Cobblestone.png|32px|Cobblestone]]</td></tr>
-<tr><th scope="row">Construction</th><td></td><td></td><td></td><td>20</td><td></td><td></td><td>170</td><td>163</td><td></td></tr>
-<tr><th scope="row">Upgrade 1</th><td></td><td>10</td><td>6</td><td>2</td><td>1</td><td>64</td><td>13</td><td></td><td></td></tr>
-<tr><th scope="row">Upgrade 2</th><td></td><td>6</td><td></td><td>3</td><td>18</td><td>40</td><td>14</td><td></td><td>10</td></tr>
-<tr><th scope="row">Upgrade 3</th><td>4</td><td></td><td>6</td><td>3</td><td>83</td><td>12</td><td>14</td><td></td><td>10</td></tr>
+<table class="reqirements"><tr><th scope="col" style="text-align:center;"></th><td>[[File:Unknown Pict:net.minecraft.item.ItemBlock@38fbf42c/0|32px|Carving]]</td><td>[[File:Gravel.png|32px|Gravel]]</td><td>[[File:Wood_Any.gif|32px|Wood (any)]]</td><td>[[File:Wood_Pine.png|32px|Spruce Wood]]</td><td>[[File:Wood_Birch.png|32px|Birch Wood]]</td><td>[[File:Unknown Pict:net.minecraft.item.ItemSnow@7aad3f7d/0|32px|Snow]]</td><td>[[File:Unknown Pict:net.minecraft.item.ItemBlock@79ab34c1/0|32px|Snow]]</td><td>[[File:Unknown Pict:inuitMaterials.block.ItemBlockSodPlank@7b3207/0|32px|Sod Oak Planks]]</td><td>[[File:Cobblestone.png|32px|Cobblestone]]</td></tr>
+<tr><th scope="row">Construction</th><td></td><td></td><td>20</td><td></td><td></td><td>170</td><td>163</td><td></td><td></td></tr>
+<tr><th scope="row">Upgrade 1</th><td></td><td>6</td><td>2</td><td>3</td><td>64</td><td>13</td><td></td><td></td><td></td></tr>
+<tr><th scope="row">Upgrade 2</th><td></td><td></td><td>3</td><td>18</td><td>40</td><td>14</td><td></td><td>6</td><td>10</td></tr>
+<tr><th scope="row">Upgrade 3</th><td>4</td><td>6</td><td>3</td><td>83</td><td>12</td><td>14</td><td></td><td></td><td>10</td></tr>
 </table>
 </table>
 
 |Niqi tupiq = <table><tr><td style="vertical-align:top;">
-<table class="reqirements"><tr><th scope="col" style="text-align:center;"></th><td>[[File:Ironitm.png|32px|Iron Ingot]]</td><td>[[File:White_Wool.png|32px|Wool]]</td><td>[[File:Wood_Any.gif|32px|Wood (any)]]</td><td>[[File:Wood_Pine.png|32px|Spruce Wood]]</td><td>[[File:Wood_Birch.png|32px|Birch Wood]]</td><td>[[File:Unknown Pict:net.minecraft.item.ItemSnow@7aad3f7d/0|32px|Snow]]</td><td>[[File:Unknown Pict:net.minecraft.item.ItemBlock@79ab34c1/0|32px|Snow]]</td><td>[[File:Cobblestone.png|32px|Cobblestone]]</td></tr>
-<tr><th scope="row">Construction</th><td></td><td></td><td>13</td><td></td><td>1</td><td>86</td><td>153</td><td>40</td></tr>
-<tr><th scope="row">Upgrade 1</th><td>7</td><td></td><td>25</td><td></td><td>24</td><td>2</td><td></td><td>16</td></tr>
-<tr><th scope="row">Upgrade 2</th><td>7</td><td>38</td><td>21</td><td>13</td><td>21</td><td>15</td><td></td><td>16</td></tr>
+<table class="reqirements"><tr><th scope="col" style="text-align:center;"></th><td>[[File:Ironitm.png|32px|Iron Ingot]]</td><td>[[File:Wood_Any.gif|32px|Wood (any)]]</td><td>[[File:Wood_Pine.png|32px|Spruce Wood]]</td><td>[[File:Wood_Birch.png|32px|Birch Wood]]</td><td>[[File:Unknown Pict:net.minecraft.item.ItemSnow@7aad3f7d/0|32px|Snow]]</td><td>[[File:Unknown Pict:net.minecraft.item.ItemBlock@79ab34c1/0|32px|Snow]]</td><td>[[File:Unknown Pict:inuitMaterials.block.ItemBlockSodPlank@7b3207/1|32px|Sod Spruce Planks]]</td><td>[[File:Cobblestone.png|32px|Cobblestone]]</td></tr>
+<tr><th scope="row">Construction</th><td></td><td>13</td><td></td><td>1</td><td>86</td><td>153</td><td></td><td>40</td></tr>
+<tr><th scope="row">Upgrade 1</th><td>7</td><td>25</td><td></td><td>25</td><td>2</td><td></td><td></td><td>16</td></tr>
+<tr><th scope="row">Upgrade 2</th><td>7</td><td>22</td><td>21</td><td>22</td><td>15</td><td></td><td>12</td><td>16</td></tr>
 </table>
 </table>
 
 |Angakok tupiq = <table><tr><td style="vertical-align:top;">
 <table class="reqirements"><tr><th scope="col" style="text-align:center;"></th><td>[[File:Ironitm.png|32px|Iron Ingot]]</td><td>[[File:Wood_Any.gif|32px|Wood (any)]]</td><td>[[File:Wood_Pine.png|32px|Spruce Wood]]</td><td>[[File:Unknown Pict:net.minecraft.item.ItemSnow@7aad3f7d/0|32px|Snow]]</td></tr>
 <tr><th scope="row">Construction</th><td>7</td><td>11</td><td></td><td>129</td></tr>
-<tr><th scope="row">Upgrade 1</th><td>7</td><td>13</td><td>1</td><td>136</td></tr>
-<tr><th scope="row">Upgrade 2</th><td></td><td>1</td><td></td><td>97</td></tr>
+<tr><th scope="row">Upgrade 1</th><td>7</td><td>14</td><td>1</td><td>132</td></tr>
+<tr><th scope="row">Upgrade 2</th><td></td><td>2</td><td></td><td>93</td></tr>
 </table>
 </table>
 
@@ -559,8 +559,8 @@
 |Sfuyaunnat tupiq  = <table><tr><td style="vertical-align:top;">
 <table class="reqirements"><tr><th scope="col" style="text-align:center;"></th><td>[[File:Wood_Any.gif|32px|Wood (any)]]</td><td>[[File:Wood_Pine.png|32px|Spruce Wood]]</td><td>[[File:Unknown Pict:net.minecraft.item.ItemSnow@7aad3f7d/0|32px|Snow]]</td><td>[[File:Unknown Pict:net.minecraft.item.ItemBlock@79ab34c1/0|32px|Snow]]</td><td>[[File:Unknown Pict:inuitMaterials.block.ItemBlockSodPlank@7b3207/1|32px|Sod Spruce Planks]]</td><td>[[File:Unknown Pict:inuitMaterials.block.ItemBlockSodPlank@7b3207/2|32px|Sod Birch Planks]]</td></tr>
 <tr><th scope="row">Construction</th><td>14</td><td></td><td>83</td><td>65</td><td></td><td></td></tr>
-<tr><th scope="row">Upgrade 1</th><td>18</td><td>7</td><td>3</td><td></td><td></td><td></td></tr>
-<tr><th scope="row">Upgrade 2</th><td>1</td><td>15</td><td>1</td><td></td><td>77</td><td>78</td></tr>
+<tr><th scope="row">Upgrade 1</th><td>18</td><td>8</td><td>3</td><td></td><td></td><td></td></tr>
+<tr><th scope="row">Upgrade 2</th><td>1</td><td>15</td><td>1</td><td></td><td>76</td><td>76</td></tr>
 </table>
 </table>
 
@@ -583,8 +583,8 @@
 </table>
 
 |Mitlik tupiq = <table><tr><td style="vertical-align:top;">
-<table class="reqirements"><tr><th scope="col" style="text-align:center;"></th><td>[[File:White_Wool.png|32px|Wool]]</td><td>[[File:Unknown Pict:net.minecraft.item.ItemBlock@78faea5f/0|32px|Ice]]</td><td>[[File:Wood_Any.gif|32px|Wood (any)]]</td><td>[[File:Wood.png|32px|Oak Wood]]</td><td>[[File:Wood_Pine.png|32px|Spruce Wood]]</td><td>[[File:Unknown Pict:net.minecraft.item.ItemSnow@7aad3f7d/0|32px|Snow]]</td><td>[[File:Unknown Pict:net.minecraft.item.ItemBlock@79ab34c1/0|32px|Snow]]</td><td>[[File:Unknown Pict:inuitMaterials.block.ItemBlockSodPlank@7b3207/1|32px|Sod Spruce Planks]]</td><td>[[File:Unknown Pict:inuitMaterials.block.ItemBlockSodPlank@7b3207/2|32px|Sod Birch Planks]]</td></tr>
-<tr><th scope="row">Construction</th><td>3</td><td>3</td><td>31</td><td>16</td><td>24</td><td>42</td><td>3</td><td>150</td><td>87</td></tr>
+<table class="reqirements"><tr><th scope="col" style="text-align:center;"></th><td>[[File:Unknown Pict:net.minecraft.item.ItemBlock@78faea5f/0|32px|Ice]]</td><td>[[File:Wood_Any.gif|32px|Wood (any)]]</td><td>[[File:Wood.png|32px|Oak Wood]]</td><td>[[File:Wood_Pine.png|32px|Spruce Wood]]</td><td>[[File:Unknown Pict:net.minecraft.item.ItemSnow@7aad3f7d/0|32px|Snow]]</td><td>[[File:Unknown Pict:net.minecraft.item.ItemBlock@79ab34c1/0|32px|Snow]]</td><td>[[File:Unknown Pict:inuitMaterials.block.ItemBlockSodPlank@7b3207/1|32px|Sod Spruce Planks]]</td><td>[[File:Unknown Pict:inuitMaterials.block.ItemBlockSodPlank@7b3207/2|32px|Sod Birch Planks]]</td></tr>
+<tr><th scope="row">Construction</th><td>3</td><td>32</td><td>16</td><td>24</td><td>42</td><td>3</td><td>150</td><td>87</td></tr>
 </table>
 </table>
 
@@ -596,6 +596,12 @@
 <table class="reqirements"><tr><th scope="col" style="text-align:center;">Variation B</th><td>[[File:Wood_Any.gif|32px|Wood (any)]]</td><td>[[File:Wood_Pine.png|32px|Spruce Wood]]</td><td>[[File:Unknown Pict:net.minecraft.item.ItemSnow@7aad3f7d/0|32px|Snow]]</td><td>[[File:Unknown Pict:net.minecraft.item.ItemBlock@79ab34c1/0|32px|Snow]]</td><td>[[File:Unknown Pict:inuitMaterials.block.ItemBlockSodPlank@7b3207/1|32px|Sod Spruce Planks]]</td></tr>
 <tr><th scope="row">Construction</th><td>3</td><td></td><td>86</td><td>34</td><td></td></tr>
 <tr><th scope="row">Upgrade 1</th><td>1</td><td>4</td><td>85</td><td></td><td>30</td></tr>
+</table>
+</table>
+
+|Smalliquk Tupik = <table><tr><td style="vertical-align:top;">
+<table class="reqirements"><tr><th scope="col" style="text-align:center;"></th><td>[[File:White_Wool.png|32px|Wool]]</td><td>[[File:Wood_Any.gif|32px|Wood (any)]]</td><td>[[File:Unknown Pict:net.minecraft.item.ItemSnow@7aad3f7d/0|32px|Snow]]</td><td>[[File:Unknown Pict:net.minecraft.item.ItemBlock@79ab34c1/0|32px|Snow]]</td><td>[[File:Cobblestone.png|32px|Cobblestone]]</td></tr>
+<tr><th scope="row">Construction</th><td>3</td><td>13</td><td>35</td><td>149</td><td>8</td></tr>
 </table>
 </table>
 
@@ -618,6 +624,12 @@
 </table>
 </table>
 
+|Mediqik Tupik = <table><tr><td style="vertical-align:top;">
+<table class="reqirements"><tr><th scope="col" style="text-align:center;"></th><td>[[File:White_Wool.png|32px|Wool]]</td><td>[[File:Wood_Any.gif|32px|Wood (any)]]</td><td>[[File:Wood_Birch.png|32px|Birch Wood]]</td><td>[[File:Unknown Pict:net.minecraft.item.ItemSnow@7aad3f7d/0|32px|Snow]]</td><td>[[File:Cobblestone.png|32px|Cobblestone]]</td></tr>
+<tr><th scope="row">Construction</th><td>3</td><td>31</td><td>91</td><td>50</td><td>38</td></tr>
+</table>
+</table>
+
 |Afuniaqti tupiq = <table><tr><td style="vertical-align:top;">
 <table class="reqirements"><tr><th scope="col" style="text-align:center;"></th><td>[[File:Wood_Any.gif|32px|Wood (any)]]</td><td>[[File:Wood_Birch.png|32px|Birch Wood]]</td><td>[[File:Unknown Pict:net.minecraft.item.ItemSnow@7aad3f7d/0|32px|Snow]]</td><td>[[File:Unknown Pict:net.minecraft.item.ItemBlock@79ab34c1/0|32px|Snow]]</td><td>[[File:Unknown Pict:inuitMaterials.block.ItemBlockSodPlank@7b3207/1|32px|Sod Spruce Planks]]</td></tr>
 <tr><th scope="row">Construction</th><td>21</td><td></td><td>105</td><td>105</td><td></td></tr>
@@ -634,10 +646,10 @@
 </table>
 
 |Alluaq tupiq = <table><tr><td style="vertical-align:top;">
-<table class="reqirements"><tr><th scope="col" style="text-align:center;"></th><td>[[File:Unknown Pict:net.minecraft.item.ItemBlock@78faea5f/0|32px|Ice]]</td><td>[[File:Wood_Any.gif|32px|Wood (any)]]</td><td>[[File:Wood_Pine.png|32px|Spruce Wood]]</td><td>[[File:Wood_Birch.png|32px|Birch Wood]]</td><td>[[File:Unknown Pict:net.minecraft.item.ItemSnow@7aad3f7d/0|32px|Snow]]</td><td>[[File:Unknown Pict:net.minecraft.item.ItemBlock@79ab34c1/0|32px|Snow]]</td></tr>
-<tr><th scope="row">Construction</th><td>83</td><td>9</td><td></td><td></td><td>19</td><td>40</td></tr>
-<tr><th scope="row">Upgrade 1</th><td>83</td><td>5</td><td>8</td><td></td><td>15</td><td></td></tr>
-<tr><th scope="row">Upgrade 2</th><td>77</td><td>13</td><td>20</td><td>7</td><td>11</td><td></td></tr>
+<table class="reqirements"><tr><th scope="col" style="text-align:center;"></th><td>[[File:Unknown Pict:net.minecraft.item.ItemBlock@78faea5f/0|32px|Ice]]</td><td>[[File:Wood_Any.gif|32px|Wood (any)]]</td><td>[[File:Wood_Pine.png|32px|Spruce Wood]]</td><td>[[File:Wood_Birch.png|32px|Birch Wood]]</td><td>[[File:Unknown Pict:net.minecraft.item.ItemSnow@7aad3f7d/0|32px|Snow]]</td><td>[[File:Unknown Pict:net.minecraft.item.ItemBlock@79ab34c1/0|32px|Snow]]</td><td>[[File:Unknown Pict:inuitMaterials.block.ItemBlockSodPlank@7b3207/0|32px|Sod Oak Planks]]</td><td>[[File:Unknown Pict:inuitMaterials.block.ItemBlockSodPlank@7b3207/1|32px|Sod Spruce Planks]]</td></tr>
+<tr><th scope="row">Construction</th><td>83</td><td>9</td><td></td><td></td><td>19</td><td>40</td><td></td><td></td></tr>
+<tr><th scope="row">Upgrade 1</th><td></td><td>5</td><td>8</td><td></td><td>15</td><td></td><td></td><td></td></tr>
+<tr><th scope="row">Upgrade 2</th><td></td><td>13</td><td>20</td><td>8</td><td>11</td><td></td><td>6</td><td>12</td></tr>
 </table>
 </table>
 
@@ -648,9 +660,9 @@
 </table>
 
 |Tuyubmiaq tupiq = <table><tr><td style="vertical-align:top;">
-<table class="reqirements"><tr><th scope="col" style="text-align:center;"></th><td>[[File:White_Wool.png|32px|Wool]]</td><td>[[File:Wood_Any.gif|32px|Wood (any)]]</td><td>[[File:Wood_Pine.png|32px|Spruce Wood]]</td><td>[[File:Wood_Birch.png|32px|Birch Wood]]</td><td>[[File:Unknown Pict:net.minecraft.item.ItemSnow@7aad3f7d/0|32px|Snow]]</td></tr>
-<tr><th scope="row">Construction</th><td></td><td>36</td><td>21</td><td>52</td><td>32</td></tr>
-<tr><th scope="row">Upgrade 1</th><td>4</td><td>30</td><td>41</td><td>62</td><td>33</td></tr>
+<table class="reqirements"><tr><th scope="col" style="text-align:center;"></th><td>[[File:Wood_Any.gif|32px|Wood (any)]]</td><td>[[File:Wood_Pine.png|32px|Spruce Wood]]</td><td>[[File:Wood_Birch.png|32px|Birch Wood]]</td><td>[[File:Unknown Pict:net.minecraft.item.ItemSnow@7aad3f7d/0|32px|Snow]]</td></tr>
+<tr><th scope="row">Construction</th><td>36</td><td>21</td><td>52</td><td>32</td></tr>
+<tr><th scope="row">Upgrade 1</th><td>30</td><td>41</td><td>63</td><td>33</td></tr>
 </table>
 </table>
 
@@ -1252,6 +1264,12 @@
 </table>
 </table>
 
+|Armurerie~largefort_A_armoury = <table><tr><td style="vertical-align:top;">
+<table class="reqirements"><tr><th scope="col" style="text-align:center;"></th><td>[[File:Ironitm.png|32px|Iron Ingot]]</td><td>[[File:White_Wool.png|32px|Wool]]</td><td>[[File:Wood_Any.gif|32px|Wood (any)]]</td><td>[[File:Wood.png|32px|Oak Wood]]</td><td>[[File:Stone.png|32px|Stone]]</td></tr>
+<tr><th scope="row">Construction</th><td>9</td><td>9</td><td>22</td><td>7</td><td>49</td></tr>
+</table>
+</table>
+
 |Marché = <table><tr><td style="vertical-align:top;">
 <table class="reqirements"><tr><th scope="col" style="text-align:center;"></th><td>[[File:White_Wool.png|32px|Wool]]</td><td>[[File:Glass.png|32px|Glass]]</td><td>[[File:Wood_Any.gif|32px|Wood (any)]]</td><td>[[File:Wood.png|32px|Oak Wood]]</td><td>[[File:ML_colombages_plain.png|32px|link=Norman:Colombages|tile.ml_wood_deco.0.name]]</td><td>[[File:ML_colombages_cross.png|32px|link=Norman:Colombages|tile.ml_wood_deco.1.name]]</td><td>[[File:Cobblestone.png|32px|Cobblestone]]</td></tr>
 <tr><th scope="row">Construction</th><td>14</td><td></td><td>10</td><td>75</td><td></td><td></td><td></td></tr>
@@ -1305,12 +1323,30 @@
 </table>
 </table>
 
+|Salle des guardes = <table><tr><td style="vertical-align:top;">
+<table class="reqirements"><tr><th scope="col" style="text-align:center;"></th><td>[[File:White_Wool.png|32px|Wool]]</td><td>[[File:Wood_Any.gif|32px|Wood (any)]]</td><td>[[File:Wood.png|32px|Oak Wood]]</td><td>[[File:ML_colombages_plain.png|32px|link=Norman:Colombages|tile.ml_wood_deco.0.name]]</td><td>[[File:ML_colombages_cross.png|32px|link=Norman:Colombages|tile.ml_wood_deco.1.name]]</td></tr>
+<tr><th scope="row">Construction</th><td>6</td><td>10</td><td>10</td><td>26</td><td>4</td></tr>
+</table>
+</table>
+
 |Relais = <table><tr><td style="vertical-align:top;">
 <table class="reqirements"><tr><th scope="col" style="text-align:center;"></th><td>[[File:Glass.png|32px|Glass]]</td><td>[[File:Wood_Any.gif|32px|Wood (any)]]</td><td>[[File:Wood.png|32px|Oak Wood]]</td><td>[[File:ML_colombages_plain.png|32px|link=Norman:Colombages|tile.ml_wood_deco.0.name]]</td><td>[[File:ML_colombages_cross.png|32px|link=Norman:Colombages|tile.ml_wood_deco.1.name]]</td><td>[[File:Cobblestone.png|32px|Cobblestone]]</td></tr>
 <tr><th scope="row">Construction</th><td></td><td>25</td><td>53</td><td></td><td></td><td></td></tr>
 <tr><th scope="row">Upgrade 1</th><td></td><td></td><td></td><td></td><td></td><td>61</td></tr>
 <tr><th scope="row">Upgrade 2</th><td>5</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><th scope="row">Upgrade 3</th><td></td><td></td><td></td><td>31</td><td>20</td><td></td></tr>
+</table>
+</table>
+
+|Forteresse = <table><tr><td style="vertical-align:top;">
+<table class="reqirements"><tr><th scope="col" style="text-align:center;"></th><td>[[File:Ironitm.png|32px|Iron Ingot]]</td><td>[[File:White_Wool.png|32px|Wool]]</td><td>[[File:Wood_Any.gif|32px|Wood (any)]]</td><td>[[File:Wood.png|32px|Oak Wood]]</td><td>[[File:ML_colombages_plain.png|32px|link=Norman:Colombages|tile.ml_wood_deco.0.name]]</td><td>[[File:Stone.png|32px|Stone]]</td><td>[[File:Cobblestone.png|32px|Cobblestone]]</td></tr>
+<tr><th scope="row">Construction</th><td></td><td></td><td>47</td><td>129</td><td></td><td>229</td><td></td></tr>
+<tr><th scope="row">Upgrade 1</th><td></td><td></td><td>13</td><td>43</td><td></td><td></td><td></td></tr>
+<tr><th scope="row">Upgrade 2</th><td></td><td></td><td>13</td><td>183</td><td></td><td></td><td></td></tr>
+<tr><th scope="row">Upgrade 3</th><td>2</td><td>6</td><td>18</td><td>12</td><td></td><td>281</td><td>103</td></tr>
+<tr><th scope="row">Upgrade 4</th><td>18</td><td></td><td>47</td><td>32</td><td>22</td><td>233</td><td>164</td></tr>
+<tr><th scope="row">Upgrade 5</th><td>6</td><td>6</td><td>8</td><td>14</td><td></td><td>178</td><td>44</td></tr>
+<tr><th scope="row">Upgrade 6</th><td>8</td><td></td><td>80</td><td>59</td><td></td><td>1102</td><td>88</td></tr>
 </table>
 </table>
 
@@ -1495,7 +1531,7 @@
 </table>
 </table>
 
-|Armurerie = <table><tr><td style="vertical-align:top;">
+|Armurerie~armoury = <table><tr><td style="vertical-align:top;">
 <table class="reqirements"><tr><th scope="col" style="text-align:center;"></th><td>[[File:Ironitm.png|32px|Iron Ingot]]</td><td>[[File:White_Wool.png|32px|Wool]]</td><td>[[File:Glass.png|32px|Glass]]</td><td>[[File:Wood_Any.gif|32px|Wood (any)]]</td><td>[[File:Wood.png|32px|Oak Wood]]</td><td>[[File:ML_colombages_plain.png|32px|link=Norman:Colombages|tile.ml_wood_deco.0.name]]</td><td>[[File:ML_colombages_cross.png|32px|link=Norman:Colombages|tile.ml_wood_deco.1.name]]</td><td>[[File:Cobblestone.png|32px|Cobblestone]]</td></tr>
 <tr><th scope="row">Construction</th><td>18</td><td></td><td>9</td><td>19</td><td>47</td><td></td><td></td><td>288</td></tr>
 <tr><th scope="row">Upgrade 1</th><td></td><td>6</td><td></td><td>2</td><td></td><td></td><td></td><td>30</td></tr>

@@ -2,7 +2,7 @@
 
 //Note to Windows users: if you see the entire file in one line, open it using PSPad or UltraEdit instead of Notepad
 
-priority=50
+priority=5000
 
 
 //spécifier si l'étiquette ou les phrases pour ce but n'ont pas le code du but lui-même

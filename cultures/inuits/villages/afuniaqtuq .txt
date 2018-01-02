@@ -25,7 +25,7 @@ start:hunter
 start:bison
 
 //Currently not added player buildings
-//player:playersmallplot
+player:smallhouse
 //player:playerigloo
 //player:playerlargeplot
 //player:playerbigigloo

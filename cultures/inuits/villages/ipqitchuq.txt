@@ -27,7 +27,7 @@ start:animistic
 start:market
 
 
-//player:playersmallplot
+player:smallhouse
 //player:playerigloo
 //player:playerlargeplot
 //player:playerbigigloo

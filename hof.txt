@@ -68,4 +68,4 @@ e294;;hof.donor
 math51350;;hof.donor
 mugen2099;;hof.donor
 Andrej;Masaryk;hof.donor
-zoythrus;;hof.donor
+Zoythrus;;hof.donor
