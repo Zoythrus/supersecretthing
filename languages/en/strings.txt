@@ -600,6 +600,9 @@ goal.packOakSod=Packing Oak Sod
 goal.packSpruceSod=Packing Spruce Sod
 goal.packBirchSod=Packing Birch Sod
 goal.packJungleSod=Packing Jungle Sod
+goal.plantPotatoHome=Planting Potatos
+goal.cookPotato=Cooking Potato
+goal.harvestPotatoHome=Harvesting Potato
 goal.packsnowblock=Packing Snow
 goal.carveice=Carving Ice
 
