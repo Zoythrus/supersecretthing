@@ -1,9 +1,9 @@
 animistic_A0=Ceremonial House
 grove_A0=Grove
 grove_B0=Grove
-farmP_A0=Farm
-farmP_B0=Farm
-farmW_A0=Farm
+farmP_A0=Potato Farm
+farmP_B0=Potato Farm
+farmW_A0=Wheat Farm
 carver_A0=Carver
 tannery_A0=Tannery
 foodpreparer_A0=Kitchen

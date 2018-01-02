@@ -1,12 +1,3 @@
-
-
-
-Buildings with signs (not panels):
-
-
-
-
-
 japanese: 
 seiji resource use: 
 tile.ml_wood_deco.2.name: 9180
@@ -23,9 +14,9 @@ tile.ml_panes.name: 864
 Gravel: 691
 Cobblestone: 1986
 Stone: 12254
-Grass: 263
 Iron Ingot: 108
 Fern: 117
+Grass: 263
 Wool: 304
 
 japanese_controlled resource use: 
@@ -74,9 +65,9 @@ tile.ml_panes.name: 610
 Gravel: 565
 Cobblestone: 1427
 Stone: 9357
+Grass: 263
 Iron Ingot: 18
 Fern: 117
-Grass: 263
 Wool: 182
 
 japanese_customcontrolled resource use: 
@@ -96,8 +87,8 @@ Gravel: 527
 Cobblestone: 1423
 Stone: 10795
 Iron Ingot: 90
-Grass: 263
 Fern: 117
+Grass: 263
 Wool: 195
 
 
@@ -187,34 +178,34 @@ inuits:
 ipqitchuq resource use: 
 Ice: 151
 Wood (any): 616
-Birch Wood: 749
 Spruce Wood: 393
 Oak Wood: 16
+Birch Wood: 749
 Snow: 1447
 Snow: 2480
 Carving: 12
 Gravel: 32
-Cobblestone: 210
-Sod Spruce Planks: 411
-Sod Oak Planks: 12
 Sod Birch Planks: 210
+Sod Spruce Planks: 411
+Cobblestone: 210
+Sod Oak Planks: 12
 Iron Ingot: 56
 Wool: 9
 
 afuniaqtuq  resource use: 
 Ice: 234
 Wood (any): 716
-Birch Wood: 607
 Spruce Wood: 886
+Birch Wood: 607
 Oak Wood: 16
 Snow: 1655
 Snow: 2568
 Carving: 4
 Gravel: 12
-Cobblestone: 566
 Sod Spruce Planks: 526
-Sod Oak Planks: 18
 Sod Birch Planks: 202
+Cobblestone: 566
+Sod Oak Planks: 18
 Iron Ingot: 28
 Stone: 62
 Wool: 9
@@ -222,19 +213,19 @@ Wool: 9
 sanaturuq resource use: 
 Ice: 151
 Wood (any): 706
-Oak Wood: 16
-Spruce Wood: 917
 Birch Wood: 495
+Spruce Wood: 917
+Oak Wood: 16
 Snow: 1510
 Snow: 2726
 Carving: 4
 Gravel: 12
 Cobblestone: 566
 Sod Spruce Planks: 452
-Sod Birch Planks: 241
 Sod Oak Planks: 12
-Stone: 62
+Sod Birch Planks: 241
 Iron Ingot: 28
+Stone: 62
 Wool: 9
 
 
@@ -388,9 +379,9 @@ Wood (any): 1410
 Oak Wood: 2992
 Bookshelf: 6
 Cobblestone: 6299
+Iron Ingot: 95
 Glass: 322
 Stone: 7781
-Iron Ingot: 95
 Wool: 197
 
 hameau_artisans resource use: 
@@ -421,8 +412,8 @@ Wood (any): 1440
 Oak Wood: 3377
 Bookshelf: 6
 Cobblestone: 5652
-Glass: 299
 Stone: 6612
+Glass: 299
 Iron Ingot: 59
 Wool: 193
 
@@ -437,15 +428,15 @@ Stone: 1009
 Wool: 42
 
 militaire resource use: 
-tile.ml_wood_deco.1.name: 389
 tile.ml_wood_deco.0.name: 1098
+tile.ml_wood_deco.1.name: 389
 Wood (any): 1252
 Oak Wood: 2809
 Bookshelf: 6
 Cobblestone: 5994
+Iron Ingot: 111
 Glass: 249
 Stone: 8064
-Iron Ingot: 111
 Wool: 185
 
 bourg_autonome resource use: 
@@ -456,8 +447,8 @@ Oak Wood: 2997
 Bookshelf: 6
 Cobblestone: 8871
 Glass: 317
-Stone: 6904
 Iron Ingot: 95
+Stone: 6904
 Wool: 208
 item.ml_tapestry.name: 5
 
@@ -732,9 +723,9 @@ mayan:
 military resource use: 
 Sandstone: 5
 Wood (any): 1080
-Bookshelf: 48
 Oak Wood: 555
 Tropical Wood: 136
+Bookshelf: 48
 Cobblestone: 16706
 Stone: 10936
 item.ml_mayanstatue.name: 3
@@ -753,9 +744,9 @@ tile.ml_stone_deco.2.name: 91
 agriculture resource use: 
 Sandstone: 13
 Wood (any): 1208
-Bookshelf: 48
 Oak Wood: 727
 Tropical Wood: 332
+Bookshelf: 48
 Cobblestone: 17776
 Stone: 13014
 item.ml_mayanstatue.name: 8
@@ -765,9 +756,9 @@ tile.ml_stone_deco.2.name: 147
 religious resource use: 
 Sandstone: 136
 Wood (any): 998
-Bookshelf: 48
 Oak Wood: 486
 Tropical Wood: 178
+Bookshelf: 48
 Cobblestone: 15884
 Stone: 11641
 item.ml_mayanstatue.name: 6
