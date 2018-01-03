@@ -7,10 +7,7 @@ pathmaterial:pathdirt
 pathmaterial:pathgravel
 pathmaterial:pathgravelslabs
 
-<<<<<<< Updated upstream
 
-=======
->>>>>>> Stashed changes
 biome:tundra
 biome:taiga
 biome:ice plains
@@ -46,9 +43,10 @@ core:hunter
 secondary:foodpreparer
 secondary:fisherman
 secondary:guesthouse
+secondary:hunter
 secondary:shaman
 
-
+never:carver
 never:offering
 
 //Selling prices:

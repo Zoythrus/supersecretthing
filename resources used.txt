@@ -13,8 +13,8 @@ Sand: 286
 tile.ml_panes.name: 864
 Gravel: 691
 Cobblestone: 1986
-Stone: 12254
 Iron Ingot: 108
+Stone: 12254
 Fern: 117
 Grass: 263
 Wool: 304
@@ -29,8 +29,8 @@ Spruce Wood: 577
 Gravel: 2
 Cobblestone: 129
 Stone: 1785
-Wool: 55
 tile.ml_panes.name: 95
+Wool: 55
 
 gunji resource use: 
 tile.ml_wood_deco.2.name: 8368
@@ -65,9 +65,9 @@ tile.ml_panes.name: 610
 Gravel: 565
 Cobblestone: 1427
 Stone: 9357
+Fern: 117
 Grass: 263
 Iron Ingot: 18
-Fern: 117
 Wool: 182
 
 japanese_customcontrolled resource use: 
@@ -85,10 +85,10 @@ Sand: 286
 tile.ml_panes.name: 681
 Gravel: 527
 Cobblestone: 1423
-Stone: 10795
-Iron Ingot: 90
-Fern: 117
 Grass: 263
+Stone: 10795
+Fern: 117
+Iron Ingot: 90
 Wool: 195
 
 
@@ -177,37 +177,36 @@ tile.ml_panes.name: 36
 inuits: 
 ipqitchuq resource use: 
 Ice: 151
-Wood (any): 616
-Spruce Wood: 393
-Oak Wood: 16
+Wood (any): 662
+Spruce Wood: 454
 Birch Wood: 749
-Snow: 1447
-Snow: 2480
+Oak Wood: 16
+Snow: 1570
+Snow: 2837
 Carving: 12
 Gravel: 32
+Sod Spruce Planks: 490
 Sod Birch Planks: 210
-Sod Spruce Planks: 411
 Cobblestone: 210
 Sod Oak Planks: 12
 Iron Ingot: 56
 Wool: 9
 
 afuniaqtuq  resource use: 
-Ice: 234
-Wood (any): 716
-Spruce Wood: 886
-Birch Wood: 607
-Oak Wood: 16
-Snow: 1655
-Snow: 2568
+Ice: 231
+Wood (any): 731
+Spruce Wood: 862
+Birch Wood: 711
+Snow: 1757
+Snow: 2677
 Carving: 4
 Gravel: 12
-Sod Spruce Planks: 526
-Sod Birch Planks: 202
 Cobblestone: 566
 Sod Oak Planks: 18
-Iron Ingot: 28
+Sod Spruce Planks: 438
+Sod Birch Planks: 115
 Stone: 62
+Iron Ingot: 28
 Wool: 9
 
 sanaturuq resource use: 
@@ -224,8 +223,8 @@ Cobblestone: 566
 Sod Spruce Planks: 452
 Sod Oak Planks: 12
 Sod Birch Planks: 241
-Iron Ingot: 28
 Stone: 62
+Iron Ingot: 28
 Wool: 9
 
 
@@ -379,9 +378,9 @@ Wood (any): 1410
 Oak Wood: 2992
 Bookshelf: 6
 Cobblestone: 6299
-Iron Ingot: 95
 Glass: 322
 Stone: 7781
+Iron Ingot: 95
 Wool: 197
 
 hameau_artisans resource use: 
@@ -390,8 +389,8 @@ tile.ml_wood_deco.0.name: 282
 Wood (any): 352
 Oak Wood: 850
 Cobblestone: 1773
-Glass: 101
 Stone: 1296
+Glass: 101
 Wool: 54
 
 controlled resource use: 
@@ -400,8 +399,8 @@ tile.ml_wood_deco.0.name: 152
 Wood (any): 192
 Oak Wood: 472
 Cobblestone: 3137
-Glass: 26
 Stone: 162
+Glass: 26
 Wool: 30
 item.ml_tapestry.name: 5
 
@@ -412,8 +411,8 @@ Wood (any): 1440
 Oak Wood: 3377
 Bookshelf: 6
 Cobblestone: 5652
-Stone: 6612
 Glass: 299
+Stone: 6612
 Iron Ingot: 59
 Wool: 193
 
@@ -428,15 +427,15 @@ Stone: 1009
 Wool: 42
 
 militaire resource use: 
-tile.ml_wood_deco.0.name: 1098
 tile.ml_wood_deco.1.name: 389
+tile.ml_wood_deco.0.name: 1098
 Wood (any): 1252
 Oak Wood: 2809
 Bookshelf: 6
 Cobblestone: 5994
-Iron Ingot: 111
 Glass: 249
 Stone: 8064
+Iron Ingot: 111
 Wool: 185
 
 bourg_autonome resource use: 
@@ -446,9 +445,9 @@ Wood (any): 1369
 Oak Wood: 2997
 Bookshelf: 6
 Cobblestone: 8871
+Stone: 6904
 Glass: 317
 Iron Ingot: 95
-Stone: 6904
 Wool: 208
 item.ml_tapestry.name: 5
 
@@ -605,8 +604,8 @@ Oak Wood: 259
 Cobblestone: 218
 item.ml_indianstatue.name: 2
 Stone: 648
-tile.ml_stone_deco.1.name: 2738
 tile.ml_stone_deco.0.name: 4018
+tile.ml_stone_deco.1.name: 2738
 
 indian_fort_hamlet resource use: 
 Sandstone: 2990
@@ -668,8 +667,8 @@ Oak Wood: 172
 Cobblestone: 180
 item.ml_indianstatue.name: 2
 Stone: 648
-tile.ml_stone_deco.1.name: 805
 tile.ml_stone_deco.0.name: 1047
+tile.ml_stone_deco.1.name: 805
 
 indian_customcontrolled resource use: 
 
@@ -734,8 +733,8 @@ tile.ml_stone_deco.2.name: 144
 
 mayan_controlled resource use: 
 Wood (any): 237
-Oak Wood: 73
 Tropical Wood: 82
+Oak Wood: 73
 Cobblestone: 4612
 Stone: 2365
 item.ml_mayanstatue.name: 3
@@ -844,16 +843,16 @@ Wood (any): 115
 Tropical Wood: 146
 Cobblestone: 136
 Stone: 7577
-Grass: 26
 Iron Ingot: 1
+Grass: 26
 tile.ml_stone_deco.2.name: 22
 
 questcamp resource use: 
 Obsidian: 14
 Portal: 6
+Gravel: 3
 Wood (any): 74
 Tropical Wood: 350
-Gravel: 3
 Grass: 149
 Stone: 802
 Iron Ingot: 6

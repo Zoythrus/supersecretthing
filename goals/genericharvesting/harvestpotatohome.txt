@@ -4,6 +4,7 @@
 
 priority=40
 
+buildingtag=potato
 
 //spécifier si l'étiquette ou les phrases pour ce but n'ont pas le code du but lui-même
 //specify if the label and sentences for this goal is not the name of the goal itself
