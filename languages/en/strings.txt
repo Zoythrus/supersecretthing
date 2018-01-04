@@ -525,6 +525,7 @@ goal.HarvestRice=Harvesting rice
 goal.PlantTurmeric=Planting turmeric
 goal.HarvestTurmeric=Harvesting turmeric
 goal.SlaughterChicken=Slaughtering chicken
+goal.SlaughterWolf=Slaughtering wolf
 goal.PlantSugarCane=Planting sugar cane
 goal.HarvestSugarCane=Harvesting sugar cane
 goal.MakeRasgulla=Making rasgullas

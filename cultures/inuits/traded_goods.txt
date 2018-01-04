@@ -68,7 +68,6 @@ sake,0,2*70,2,5,0,false,,2*64*64,tradehelp.japanesesake
 
 cake,0,64,0,0,128,false,,0,tradehelp.hindigenericfoodsweet
 cookie,0,4,0,0,8,false,,0,tradehelp.hindigenericfoodsweet
-cider,0,80,0,0,2*64,false,,0,tradehelp.genericfoodsweet
 calva,0,2*80,0,0,0,false,0,0,tradehelp.genericfoodsweet
 feta,0,96,0,0,0,false,,0,tradehelp.hindigenericfoodsweet
 cacauhaa,0,2*80,0,0,0,false,0,0,tradehelp.hindigenericfoodsweet
@@ -117,10 +116,10 @@ leatherHelmet,20*5,15*5,0,0, 0,false,,0,tradehelp.genericweapon
 leatherChest,20*8,15*8,0,0, 0,false,,0,tradehelp.genericweapon
 leatherLegs,20*7,15*7,0,0, 0,false,,0,tradehelp.genericweapon
 leatherBoots,20*4,15*4,0,0, 0,false,,0,tradehelp.genericweapon
-furhat,30*5,25*5,0,0, 0,false,,0,tradehelp.genericweapon
-furcoat,30*8,25*8,0,0, 0,false,,0,tradehelp.genericweapon
-furleggings,30*7,25*7,0,0, 0,false,,0,tradehelp.genericweapon
-furboots,30*4,25*4,0,0, 0,false,,0,tradehelp.genericweapon
+furhat,30*5,25*5,0,0, 45*5,false,,0,tradehelp.genericweapon
+furcoat,30*8,25*8,0,0, 45*8,false,,0,tradehelp.genericweapon
+furleggings,30*7,25*7,0,0, 45*7,false,,0,tradehelp.genericweapon
+furboots,30*4,25*4,0,0,45*7,false,,0,tradehelp.genericweapon
 steelSword,1*64,1*64,0,0, 2*25,false,,0,tradehelp.hinditools
 steelHelmet,1*64,1*64,0,0, 6*25,false,,0,tradehelp.hinditools
 steelChest,4*64,4*64,0,0, 8*25,false,,0,tradehelp.hinditools
@@ -166,7 +165,9 @@ sugarcane,16,0,16,32,24,false,,0,tradehelp.hindirasgulla
 
 dye_blue,64,0,0,0,64
 cactus,16,0,0,0,16
-bone,2,1,0,0,8
+bone,3,2,0,0,8
+rottenflesh,3,2,0,0,8
+spiderstring,3,2,0,0,6,false,,0,tradehelp.string
 
 purse,32*64,0,0,0,0,true,,0,tradehelp.purse
 villageWand,2*64*64,0,0,0,0,true,,8*64*64,tradehelp.wand

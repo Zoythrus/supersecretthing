@@ -18,24 +18,19 @@ goal=bringBackResourcesHome
 goal=deliverResourcesShop
 goal=patrol
 goal=huntmonster
-goal=slaughterchicken
-goal=slaughtersheepinuit
-goal=slaughtercowinuit
+goal=slaughtercow
 goal=makearrow
+goal=breed
 goal=makebow
 
 collectGood=feather
 collectGood=leather
 collectGood=beefraw
 collectGood=chickenmeat
-collectGood=wool_white
 collectGood=spiderstring
 
 bringBackHomeGood=beefraw
-bringBackHomeGood=feather
 bringBackHomeGood=leather
-bringBackHomeGood=chickenmeat
-bringBackHomeGood=wool_white
 
 startinginv=leatherHelmet,1
 startinginv=leatherChest,1
@@ -44,8 +39,11 @@ startinginv=leatherBoots,1
 startinginv=woodsword,1
 startinginv=bow,1
 startinginv=arrow,64
+startinginv=wheat,16
 
-requiredGood=wool_white,10
+requiredGood=wheat,10
+requiredGood=wood_any,5
+requiredGood=spiderstring,5
 
 toolneededclass=armour
 toolneededclass=meleeweapons

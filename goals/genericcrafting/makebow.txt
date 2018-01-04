@@ -18,11 +18,12 @@ labelkey=makebow
 duration=20000
 
 //objets tenus par le villageois
-heldItems=wool_white,bow
+heldItems=spiderstring,wood_oak,bow
 
 //chaque action consome tous les objets "input" et produit tous les "output"
 //each action will require and use all the inputs and produce all the outputs
-input=wool_white,1
+input=spiderstring,1
+input=wood_any,1
 output=bow,1
 
 //s'il y a plus d'objets dans le batiment que ça, arrêter le but

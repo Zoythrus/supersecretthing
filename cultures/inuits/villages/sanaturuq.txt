@@ -14,7 +14,6 @@ biome:ice plains
 //extraBiomes mod
 
 biome:ice mountains
-biome:birch forest
 biome:autumn woods
 
 //starting buildings:
@@ -25,7 +24,7 @@ start:fisherman
 start:sodder
 
 player:smallhouse
-//player:playerigloo
+player:mediumhouse
 //player:playerlargeplot
 //player:playerbigigloo
 //player:playerhugeplot
@@ -35,16 +34,22 @@ player:smallhouse
 core:foodpreparer
 core:animistic
 core:farmW
+core:farmP
 core:shaman
 core:sodder
 core:market
-core:armoury
+core:hunter
 
 //to be built after the core ones
 secondary:carver
+secondary:armoury
 secondary:farmP
+secondary:dogbreeder
 secondary:guesthouse
+
+never:bison
 never:offering
+never:lake
 
 //Selling prices:
 sellingPrice:bread,7

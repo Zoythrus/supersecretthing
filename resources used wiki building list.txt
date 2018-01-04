@@ -100,7 +100,7 @@
 |-
 ! Ivruq tupiq
 |-
-! Ieeiaqsiruq
+! Ieeiaqsiruq~tannery
 |-
 ! Kashim
 |-
@@ -122,9 +122,13 @@
 |-
 ! Smalliquk Tupik
 |-
+! Ieeiaqsiruq~player_tannery
+|-
 ! Tuniglaktubvik
 |-
 ! Angakok Kashim
+|-
+! Arfiqinik Tupiq
 |-
 ! Mediqik Tupik
 |-

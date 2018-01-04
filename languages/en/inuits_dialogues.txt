@@ -2,9 +2,6 @@ newchat;key:rain,tag:notraining,weigth:10
 v1;0;kisu qanniqtuq? / Is it snowing?
 v2;30;aamai qiuvit?? / It looks like snow, but doesn't seem to be cold.
 
-newchat;key:rain,tag:raining,weigth:10
-v1;0;quiaakka, upinnaiturivaa? / I don't seem to feel cold or hot anymore, is this normal?
-v2;30;surquigivaa, aakka qiqumajuq mikhaani... / I know! It may mean less people will freeze to death but it seems concerning...
 
 newchat;key:beautiful,weigth:10
 v1;0;asiujivaa, / Where are we, this is not anywhere I have seen before. It looks the same but feels different.

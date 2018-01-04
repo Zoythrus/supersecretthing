@@ -2,9 +2,6 @@ newchat;key:rain,tag:notraining,weigth:10
 v1;0;kisu qanniqtuq? / ¿Está nevando?
 v2;30;aamai qiuvit?? / Se ve como nieve, pero no parece fría.
 
-newchat;key:rain,tag:raining,weigth:10
-v1;0;quiaakka, upinnaiturivaa? / No parece que sienta ni frío ni calor. ¿Es normal?
-v2;30;surquigivaa, aakka qiqumajuq mikhaani... / ¡Ya sé! Parece que ya nadie morirá congelado pero también parece preocupante...
 
 newchat;key:beautiful,weigth:10
 v1;0;asiujivaa, / ¿Dónde estamos? Este lugar no parece normal. Se ve igual pero se siente distinto.

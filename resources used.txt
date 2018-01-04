@@ -1,3 +1,12 @@
+
+
+
+Buildings with signs (not panels):
+
+
+
+
+
 japanese: 
 seiji resource use: 
 tile.ml_wood_deco.2.name: 9180
@@ -13,10 +22,10 @@ Sand: 286
 tile.ml_panes.name: 864
 Gravel: 691
 Cobblestone: 1986
-Iron Ingot: 108
 Stone: 12254
-Fern: 117
 Grass: 263
+Iron Ingot: 108
+Fern: 117
 Wool: 304
 
 japanese_controlled resource use: 
@@ -29,8 +38,8 @@ Spruce Wood: 577
 Gravel: 2
 Cobblestone: 129
 Stone: 1785
-tile.ml_panes.name: 95
 Wool: 55
+tile.ml_panes.name: 95
 
 gunji resource use: 
 tile.ml_wood_deco.2.name: 8368
@@ -46,10 +55,10 @@ Sand: 286
 tile.ml_panes.name: 810
 Gravel: 594
 Cobblestone: 1594
+Grass: 263
 Stone: 11198
 Fern: 195
 Iron Ingot: 36
-Grass: 263
 Wool: 306
 
 nogyo resource use: 
@@ -65,9 +74,9 @@ tile.ml_panes.name: 610
 Gravel: 565
 Cobblestone: 1427
 Stone: 9357
+Iron Ingot: 18
 Fern: 117
 Grass: 263
-Iron Ingot: 18
 Wool: 182
 
 japanese_customcontrolled resource use: 
@@ -85,10 +94,10 @@ Sand: 286
 tile.ml_panes.name: 681
 Gravel: 527
 Cobblestone: 1423
-Grass: 263
 Stone: 10795
-Fern: 117
 Iron Ingot: 90
+Grass: 263
+Fern: 117
 Wool: 195
 
 
@@ -176,56 +185,70 @@ tile.ml_panes.name: 36
 
 inuits: 
 ipqitchuq resource use: 
-Ice: 151
-Wood (any): 662
-Spruce Wood: 454
-Birch Wood: 749
-Oak Wood: 16
-Snow: 1570
-Snow: 2837
-Carving: 12
-Gravel: 32
-Sod Spruce Planks: 490
-Sod Birch Planks: 210
-Cobblestone: 210
+Ice: 89
+Wood (any): 705
+Spruce Wood: 656
+Birch Wood: 904
+Oak Wood: 19
+Snow: 2223
+Snow: 2849
+Carving: 14
+Gravel: 12
+Sod Spruce Planks: 572
 Sod Oak Planks: 12
+Cobblestone: 186
+Sod Birch Planks: 228
 Iron Ingot: 56
-Wool: 9
+Wool: 6
 
 afuniaqtuq  resource use: 
-Ice: 231
-Wood (any): 731
-Spruce Wood: 862
-Birch Wood: 711
-Snow: 1757
-Snow: 2677
-Carving: 4
+Ice: 83
+Wood (any): 743
+Spruce Wood: 978
+Birch Wood: 817
+Snow: 2068
+Snow: 2705
+Carving: 6
 Gravel: 12
-Cobblestone: 566
-Sod Oak Planks: 18
-Sod Spruce Planks: 438
-Sod Birch Planks: 115
+Sod Spruce Planks: 508
+Sod Oak Planks: 12
+Cobblestone: 558
+Sod Birch Planks: 133
 Stone: 62
 Iron Ingot: 28
-Wool: 9
+Wool: 6
+
+afuniaqtuq_controlled resource use: 
+Snow: 866
+Ice: 83
+Carving: 4
+Wood (any): 185
+Spruce Wood: 659
+Birch Wood: 125
+Gravel: 12
+Snow: 559
+Sod Spruce Planks: 132
+Sod Oak Planks: 12
+Cobblestone: 440
+Stone: 62
 
 sanaturuq resource use: 
-Ice: 151
-Wood (any): 706
-Birch Wood: 495
-Spruce Wood: 917
+Ice: 89
+Wood (any): 723
+Spruce Wood: 1115
+Birch Wood: 545
 Oak Wood: 16
-Snow: 1510
-Snow: 2726
-Carving: 4
+Snow: 2099
+Snow: 2676
+Carving: 6
 Gravel: 12
-Cobblestone: 566
-Sod Spruce Planks: 452
+Sod Spruce Planks: 492
 Sod Oak Planks: 12
-Sod Birch Planks: 241
+Sod Birch Planks: 259
+Cobblestone: 558
 Stone: 62
 Iron Ingot: 28
-Wool: 9
+Wool: 6
 
 
 byzantines: 
@@ -389,8 +412,8 @@ tile.ml_wood_deco.0.name: 282
 Wood (any): 352
 Oak Wood: 850
 Cobblestone: 1773
-Stone: 1296
 Glass: 101
+Stone: 1296
 Wool: 54
 
 controlled resource use: 
@@ -399,8 +422,8 @@ tile.ml_wood_deco.0.name: 152
 Wood (any): 192
 Oak Wood: 472
 Cobblestone: 3137
-Stone: 162
 Glass: 26
+Stone: 162
 Wool: 30
 item.ml_tapestry.name: 5
 
@@ -417,8 +440,8 @@ Iron Ingot: 59
 Wool: 193
 
 hameau_abbatiale resource use: 
-tile.ml_wood_deco.1.name: 304
 tile.ml_wood_deco.0.name: 600
+tile.ml_wood_deco.1.name: 304
 Wood (any): 398
 Oak Wood: 1175
 Cobblestone: 2313
@@ -445,8 +468,8 @@ Wood (any): 1369
 Oak Wood: 2997
 Bookshelf: 6
 Cobblestone: 8871
-Stone: 6904
 Glass: 317
+Stone: 6904
 Iron Ingot: 95
 Wool: 208
 item.ml_tapestry.name: 5
@@ -604,8 +627,8 @@ Oak Wood: 259
 Cobblestone: 218
 item.ml_indianstatue.name: 2
 Stone: 648
-tile.ml_stone_deco.0.name: 4018
 tile.ml_stone_deco.1.name: 2738
+tile.ml_stone_deco.0.name: 4018
 
 indian_fort_hamlet resource use: 
 Sandstone: 2990
@@ -667,8 +690,8 @@ Oak Wood: 172
 Cobblestone: 180
 item.ml_indianstatue.name: 2
 Stone: 648
-tile.ml_stone_deco.0.name: 1047
 tile.ml_stone_deco.1.name: 805
+tile.ml_stone_deco.0.name: 1047
 
 indian_customcontrolled resource use: 
 
@@ -733,8 +756,8 @@ tile.ml_stone_deco.2.name: 144
 
 mayan_controlled resource use: 
 Wood (any): 237
-Tropical Wood: 82
 Oak Wood: 73
+Tropical Wood: 82
 Cobblestone: 4612
 Stone: 2365
 item.ml_mayanstatue.name: 3
@@ -843,16 +866,16 @@ Wood (any): 115
 Tropical Wood: 146
 Cobblestone: 136
 Stone: 7577
-Iron Ingot: 1
 Grass: 26
+Iron Ingot: 1
 tile.ml_stone_deco.2.name: 22
 
 questcamp resource use: 
 Obsidian: 14
 Portal: 6
-Gravel: 3
 Wood (any): 74
 Tropical Wood: 350
+Gravel: 3
 Grass: 149
 Stone: 802
 Iron Ingot: 6
@@ -5851,46 +5874,6 @@ Initial Construction
 |}
 
 
-Upgrade 1
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Snow
-| style="text-align: center; "|3
-|-
-| style="text-align: center; "|Wood (any)
-| style="text-align: center; "|18
-|-
-| style="text-align: center; "|Spruce Wood
-| style="text-align: center; "|8
-|}
-
-
-Upgrade 2
-
-{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
-! scope="col"|Resource
-! scope="col"|Quantity
-|-
-| style="text-align: center; "|Snow
-| style="text-align: center; "|1
-|-
-| style="text-align: center; "|Wood (any)
-| style="text-align: center; "|1
-|-
-| style="text-align: center; "|Spruce Wood
-| style="text-align: center; "|15
-|-
-| style="text-align: center; "|Sod Spruce Planks
-| style="text-align: center; "|76
-|-
-| style="text-align: center; "|Sod Birch Planks
-| style="text-align: center; "|76
-|}
-
-
 Markeqi tupiq
 market
 
@@ -5915,6 +5898,59 @@ Initial Construction
 |-
 | style="text-align: center; "|Snow
 | style="text-align: center; "|270
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wood (any)
+| style="text-align: center; "|9
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Spruce Wood
+| style="text-align: center; "|101
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Birch Wood
+| style="text-align: center; "|4
+|-
+| style="text-align: center; "|Sod Spruce Planks
+| style="text-align: center; "|75
+|-
+| style="text-align: center; "|Sod Birch Planks
+| style="text-align: center; "|38
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Carving
+| style="text-align: center; "|2
+|-
+| style="text-align: center; "|Sod Birch Planks
+| style="text-align: center; "|32
 |}
 
 
@@ -6002,13 +6038,56 @@ Initial Construction
 ! scope="col"|Quantity
 |-
 | style="text-align: center; "|Snow
-| style="text-align: center; "|42
+| style="text-align: center; "|11
+|-
+| style="text-align: center; "|Wood (any)
+| style="text-align: center; "|30
+|-
+| style="text-align: center; "|Snow
+| style="text-align: center; "|310
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Snow
+| style="text-align: center; "|22
 |-
 | style="text-align: center; "|Ice
 | style="text-align: center; "|3
 |-
 | style="text-align: center; "|Wood (any)
-| style="text-align: center; "|32
+| style="text-align: center; "|2
+|-
+| style="text-align: center; "|Spruce Wood
+| style="text-align: center; "|54
+|-
+| style="text-align: center; "|Birch Wood
+| style="text-align: center; "|39
+|-
+| style="text-align: center; "|Snow
+| style="text-align: center; "|2
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Snow
+| style="text-align: center; "|22
+|-
+| style="text-align: center; "|Ice
+| style="text-align: center; "|3
+|-
+| style="text-align: center; "|Wood (any)
+| style="text-align: center; "|2
 |-
 | style="text-align: center; "|Oak Wood
 | style="text-align: center; "|16
@@ -6017,7 +6096,7 @@ Initial Construction
 | style="text-align: center; "|24
 |-
 | style="text-align: center; "|Snow
-| style="text-align: center; "|3
+| style="text-align: center; "|1
 |-
 | style="text-align: center; "|Sod Spruce Planks
 | style="text-align: center; "|150
@@ -6134,6 +6213,127 @@ Initial Construction
 |}
 
 
+Ieeiaqsiruq
+player_tannery
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Snow
+| style="text-align: center; "|119
+|-
+| style="text-align: center; "|Wood (any)
+| style="text-align: center; "|31
+|-
+| style="text-align: center; "|Snow
+| style="text-align: center; "|233
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|8
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Snow
+| style="text-align: center; "|27
+|-
+| style="text-align: center; "|Wood (any)
+| style="text-align: center; "|17
+|-
+| style="text-align: center; "|Spruce Wood
+| style="text-align: center; "|57
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Snow
+| style="text-align: center; "|22
+|-
+| style="text-align: center; "|Wood (any)
+| style="text-align: center; "|8
+|-
+| style="text-align: center; "|Spruce Wood
+| style="text-align: center; "|103
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Snow
+| style="text-align: center; "|26
+|-
+| style="text-align: center; "|Wood (any)
+| style="text-align: center; "|9
+|-
+| style="text-align: center; "|Spruce Wood
+| style="text-align: center; "|142
+|}
+
+
+Upgrade 4
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Snow
+| style="text-align: center; "|26
+|-
+| style="text-align: center; "|Wood (any)
+| style="text-align: center; "|9
+|-
+| style="text-align: center; "|Spruce Wood
+| style="text-align: center; "|89
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|209
+|}
+
+
+Upgrade 5
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Snow
+| style="text-align: center; "|33
+|-
+| style="text-align: center; "|Wood (any)
+| style="text-align: center; "|10
+|-
+| style="text-align: center; "|Spruce Wood
+| style="text-align: center; "|75
+|-
+| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|203
+|-
+| style="text-align: center; "|Sod Spruce Planks
+| style="text-align: center; "|41
+|-
+| style="text-align: center; "|Stone
+| style="text-align: center; "|62
+|}
+
+
 Tuniglaktubvik
 offering
 
@@ -6211,11 +6411,11 @@ Upgrade 1
 ! scope="col"|Resource
 ! scope="col"|Quantity
 |-
-| style="text-align: center; "|Gravel
-| style="text-align: center; "|8
-|-
 | style="text-align: center; "|Wood (any)
 | style="text-align: center; "|1
+|-
+| style="text-align: center; "|Birch Wood
+| style="text-align: center; "|2
 |}
 
 
@@ -6228,11 +6428,11 @@ Upgrade 2
 | style="text-align: center; "|Snow
 | style="text-align: center; "|10
 |-
-| style="text-align: center; "|Gravel
-| style="text-align: center; "|12
-|-
 | style="text-align: center; "|Wood (any)
 | style="text-align: center; "|1
+|-
+| style="text-align: center; "|Oak Wood
+| style="text-align: center; "|3
 |}
 
 
@@ -6248,10 +6448,10 @@ Upgrade 3
 | style="text-align: center; "|Wood (any)
 | style="text-align: center; "|6
 |-
-| style="text-align: center; "|Birch Wood
-| style="text-align: center; "|16
+| style="text-align: center; "|Spruce Wood
+| style="text-align: center; "|4
 |-
-| style="text-align: center; "|Cobblestone
+| style="text-align: center; "|Birch Wood
 | style="text-align: center; "|16
 |}
 
@@ -6316,6 +6516,72 @@ Upgrade 6
 |}
 
 
+Arfiqinik Tupiq
+dogbreeder
+
+==Requirements==
+Initial Construction
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Snow
+| style="text-align: center; "|42
+|-
+| style="text-align: center; "|Wood (any)
+| style="text-align: center; "|13
+|-
+| style="text-align: center; "|Snow
+| style="text-align: center; "|192
+|}
+
+
+Upgrade 1
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wood (any)
+| style="text-align: center; "|8
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Wood (any)
+| style="text-align: center; "|1
+|-
+| style="text-align: center; "|Spruce Wood
+| style="text-align: center; "|41
+|}
+
+
+Upgrade 3
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Spruce Wood
+| style="text-align: center; "|25
+|-
+| style="text-align: center; "|Birch Wood
+| style="text-align: center; "|5
+|-
+| style="text-align: center; "|Sod Spruce Planks
+| style="text-align: center; "|21
+|-
+| style="text-align: center; "|Sod Birch Planks
+| style="text-align: center; "|24
+|}
+
+
 Mediqik Tupik
 mediumhouse
 
@@ -6354,7 +6620,7 @@ Initial Construction
 ! scope="col"|Quantity
 |-
 | style="text-align: center; "|Snow
-| style="text-align: center; "|105
+| style="text-align: center; "|107
 |-
 | style="text-align: center; "|Wood (any)
 | style="text-align: center; "|21
@@ -6374,7 +6640,7 @@ Upgrade 1
 | style="text-align: center; "|19
 |-
 | style="text-align: center; "|Wood (any)
-| style="text-align: center; "|7
+| style="text-align: center; "|6
 |}
 
 
@@ -6385,7 +6651,7 @@ Upgrade 2
 ! scope="col"|Quantity
 |-
 | style="text-align: center; "|Snow
-| style="text-align: center; "|5
+| style="text-align: center; "|2
 |-
 | style="text-align: center; "|Wood (any)
 | style="text-align: center; "|10
@@ -6402,7 +6668,7 @@ Upgrade 3
 ! scope="col"|Quantity
 |-
 | style="text-align: center; "|Snow
-| style="text-align: center; "|22
+| style="text-align: center; "|18
 |-
 | style="text-align: center; "|Wood (any)
 | style="text-align: center; "|9
@@ -6490,7 +6756,7 @@ Upgrade 2
 | style="text-align: center; "|20
 |-
 | style="text-align: center; "|Birch Wood
-| style="text-align: center; "|8
+| style="text-align: center; "|9
 |-
 | style="text-align: center; "|Sod Spruce Planks
 | style="text-align: center; "|12
@@ -6532,16 +6798,13 @@ Initial Construction
 ! scope="col"|Quantity
 |-
 | style="text-align: center; "|Snow
-| style="text-align: center; "|32
+| style="text-align: center; "|30
 |-
 | style="text-align: center; "|Wood (any)
 | style="text-align: center; "|36
 |-
-| style="text-align: center; "|Spruce Wood
-| style="text-align: center; "|21
-|-
-| style="text-align: center; "|Birch Wood
-| style="text-align: center; "|52
+| style="text-align: center; "|Snow
+| style="text-align: center; "|211
 |}
 
 
@@ -6552,7 +6815,24 @@ Upgrade 1
 ! scope="col"|Quantity
 |-
 | style="text-align: center; "|Snow
-| style="text-align: center; "|33
+| style="text-align: center; "|30
+|-
+| style="text-align: center; "|Spruce Wood
+| style="text-align: center; "|21
+|-
+| style="text-align: center; "|Birch Wood
+| style="text-align: center; "|52
+|}
+
+
+Upgrade 2
+
+{| border="1" cellpadding="1" cellspacing="1" style="width: 300px;"
+! scope="col"|Resource
+! scope="col"|Quantity
+|-
+| style="text-align: center; "|Snow
+| style="text-align: center; "|30
 |-
 | style="text-align: center; "|Wood (any)
 | style="text-align: center; "|30
