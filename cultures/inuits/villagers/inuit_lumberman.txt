@@ -2,12 +2,17 @@ native_name=Qirriuqtuq
 gender=male
 familyNameList=inuit_names
 firstNameList=inuit_names
-tag=gathersapples
 tag=raider
 hiringcost=16
 baseheight=0.95
 
+
 texture=textures/entity/inuit/inuit_male.png
+texture=textures/entity/inuit/inuit_male2.png
+texture=textures/entity/inuit/inuit_male4.png
+texture=textures/entity/inuit/inuit_male5.png
+texture=textures/entity/inuit/inuit_male6.png
+
 
 goal=gosocialise
 goal=chat
@@ -20,7 +25,8 @@ goal=plantSaplings
 goal=bringBackResourcesHome
 
 
-startinginv=sapling,10
+startinginv=sapling_pine,10
+startinginv=sapling_birch,10
 
 bringBackHomeGood=wood
 bringBackHomeGood=wood_pine
@@ -31,7 +37,6 @@ collectGood=wood
 collectGood=wood_pine
 collectGood=wood_birch
 collectGood=wood_jungle
-collectGood=sapling
 collectGood=sapling_pine
 collectGood=sapling_birch
 collectGood=sapling_jungle

@@ -7,7 +7,7 @@ tag=visitor
 tag=foreignmerchant
 baseheight=0.95
 
-texture=textures/entity/inuit/inuit_male.png
+texture=textures/entity/inuit/inuit_male5.png
 
 goal=gorest
 goal=chat

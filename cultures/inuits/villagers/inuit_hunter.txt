@@ -8,6 +8,7 @@ tag=raider
 health=30
 
 texture=textures/entity/inuit/inuit_hunter.png
+texture=textures/entity/inuit/inuit_hunter1.png
 
 goal=gorest
 goal=gosocialise

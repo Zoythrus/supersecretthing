@@ -38,7 +38,6 @@ wool_limegreen,0,0,0,0,32
 
 seeds,2,1,0,0,2,false,,0,false,,0,tradehelp.seeds
 wheat,3,2,10,128,4,false,,0,tradehelp.japanesewheat
-potato,4,3,10,128,4,false,0,tradehelp.japanesewheat
 
 feather,2,1,16,64,4,false,,0,tradehelp.feathers
 leather,20,15,0,0,25,false,,0,tradehelp.hinditools

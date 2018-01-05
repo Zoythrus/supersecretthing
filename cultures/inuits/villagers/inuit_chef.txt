@@ -8,6 +8,11 @@ baseheight=0.85
 tag=raider
 
 texture=textures/entity/inuit/inuit_female.png
+texture=textures/entity/inuit/inuit_female2.png
+texture=textures/entity/inuit/inuit_female3.png
+texture=textures/entity/inuit/inuit_female4.png
+texture=textures/entity/inuit/inuit_female5.png
+texture=textures/entity/inuit/inuit_female6.png
 
 goal=gorest
 goal=gosocialise
