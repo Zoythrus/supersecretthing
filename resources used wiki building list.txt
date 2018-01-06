@@ -2,151 +2,11 @@
 |-
 ! Requirements Template Building Name
 |-
-! Ike
-|-
-! Daidokoro
-|-
-! Tsuribori
-|-
-! Onsenmachi~hotspringsinn_A_market
-|-
-! Kouku
-|-
-! Buttou
-|-
-! Shijin
-|-
-! Iwamuro no Hito
-|-
-! Shakuchi
-|-
-! Bourou
-|-
-! Shugi ie
-|-
-! Okurimono hausu
-|-
-! Zokuto no Bakusha
-|-
-! Ika Sakuba
-|-
-! Youkeijou
-|-
-! Saisekijou
-|-
-! Kodachi
-|-
-! Suiden
-|-
-! Tansetsu~japanesearmyforge
-|-
-! Kai Ie
-|-
-! Noufu Ie
-|-
-! Sentou
-|-
-! Tansetsu~japaneseforge
-|-
-! Ichiba
-|-
-! Daibutsu
-|-
-! Reinousha Ie
-|-
-! Densha
-|-
-! Yaba
-|-
-! Mokuzoukaoku
-|-
-! Kikori Koya
-|-
-! Bousai
-|-
-! Yashiro
-|-
-! Kofun
-|-
-! Chiisai Ie
-|-
-! Onsenmachi~hotspringsinn
-|-
-! Shuudannoujou
-|-
-! Shoko
-|-
-! Soushi
-|-
-! Tsukurizakaya
-|-
-! Eki Tochi
-|-
-! Chuugata Chisho
-|-
-! Kumonjo
-|-
-! Zenshou
-|-
-! Heisha
-|-
-! Ido
-|-
-! Onsenmachi~hotspringsinn_A_kitchen
-|-
-! Noujou Nojo
-|-
-! Qirriuqtuq tupiq
-|-
-! Ivruq tupiq
-|-
-! Ieeiaqsiruq~tannery
-|-
-! Kashim
-|-
-! Niqi tupiq
-|-
-! Angakok tupiq
-|-
-! Puviaq~farmW
-|-
-! Sfuyaunnat tupiq 
-|-
-! Markeqi tupiq
-|-
-! Puviaq~farmP
-|-
-! Mitlik tupiq
-|-
-! Napaaqtuq
-|-
-! Smalliquk Tupik
-|-
-! Ieeiaqsiruq~player_tannery
-|-
-! Tuniglaktubvik
-|-
-! Angakok Kashim
-|-
-! Arfiqinik Tupiq
-|-
-! Mediqik Tupik
-|-
-! Afuniaqti tupiq
-|-
-! Kulavak
-|-
-! Alluaq tupiq
-|-
-! Sikuliaq
-|-
-! Tuyubmiaq tupiq
-|-
 ! Frourio~playerfortbyzantine
 |-
-! Alsos
-|-
 ! Psaras Spiti
+|-
+! Alsos
 |-
 ! Krebati~barracksbyzantine_A_bed
 |-
@@ -194,9 +54,9 @@
 |-
 ! Technites Spiti
 |-
-! Chalkeio~playerfortbyzantine_A_forge
-|-
 ! Orthodoxe Ekklesia
+|-
+! Chalkeio~playerfortbyzantine_A_forge
 |-
 ! Monachikos Kastro
 |-
@@ -236,13 +96,363 @@
 |-
 ! Freatio
 |-
-! Xylokopos Spiti
-|-
 ! Bomos
+|-
+! Xylokopos Spiti
 |-
 ! null~loneCastle_A_training
 |-
 ! Archiao Nao
+|-
+! Bari saajisa
+|-
+! Choti saajisa
+|-
+! Puraalekhagar
+|-
+! Sena-Nivaas
+|-
+! Pandit ka Ghar
+|-
+! Lakarhara ka Ghar
+|-
+! Sainik ka Ghar
+|-
+! Bangla
+|-
+! Mahal~playerpalace
+|-
+! Inta bhatta
+|-
+! Bhare Ghar
+|-
+! Chota ghar
+|-
+! Uphar ghar
+|-
+! Muurtikaar ka Ghar
+|-
+! Dusra Ghar
+|-
+! Saray
+|-
+! Chota Mandir
+|-
+! Mukhiya ka Ghar
+|-
+! Baoli
+|-
+! Purana Qila
+|-
+! Bazaar
+|-
+! Sadhu ke Peer
+|-
+! Mahal~palace
+|-
+! Kisaan ka Ghar
+|-
+! Sunsan har
+|-
+! Saraay
+|-
+! Masaalaa udyaana
+|-
+! Gannaa baagaana
+|-
+! Sena ka Bhati
+|-
+! Sikaar
+|-
+! Qila ka Bhati
+|-
+! Kunja
+|-
+! Gaanv ka Mandir
+|-
+! Visaala saajisa
+|-
+! Bhati
+|-
+! Adivasi ka Ghar
+|-
+! Tandurust
+|-
+! Qila
+|-
+! Sunsan Saray
+|-
+! Chota Saraay
+|-
+! Dhaan
+|-
+! Qirriuqtuq tupiq
+|-
+! Ivruq tupiq
+|-
+! Ieeiaqsiruq~tannery
+|-
+! Kashim
+|-
+! Niqi tupiq
+|-
+! Puviaq~farmW
+|-
+! Angakok tupiq
+|-
+! Sfuyaunnat tupiq 
+|-
+! Markeqi tupiq
+|-
+! Puviaq~farmP
+|-
+! Mitlik tupiq
+|-
+! Napaaqtuq
+|-
+! Smalliquk Tupik
+|-
+! Ieeiaqsiruq~player_tannery
+|-
+! Tuniglaktubvik
+|-
+! Angakok Kashim
+|-
+! Arfiqinik Tupiq
+|-
+! Afuniaqti tupiq
+|-
+! Mediqik Tupik
+|-
+! Kulavak
+|-
+! Alluaq tupiq
+|-
+! Sikuliaq
+|-
+! Tuyubmiaq tupiq
+|-
+! Ike
+|-
+! Daidokoro
+|-
+! Tsuribori
+|-
+! Onsenmachi~hotspringsinn_A_market
+|-
+! Kouku
+|-
+! Shijin
+|-
+! Buttou
+|-
+! Iwamuro no Hito
+|-
+! Bourou
+|-
+! Shakuchi
+|-
+! Shugi ie
+|-
+! Okurimono hausu
+|-
+! Zokuto no Bakusha
+|-
+! Ika Sakuba
+|-
+! Youkeijou
+|-
+! Kodachi
+|-
+! Saisekijou
+|-
+! Suiden
+|-
+! Tansetsu~japanesearmyforge
+|-
+! Kai Ie
+|-
+! Noufu Ie
+|-
+! Sentou
+|-
+! Tansetsu~japaneseforge
+|-
+! Ichiba
+|-
+! Daibutsu
+|-
+! Yaba
+|-
+! Reinousha Ie
+|-
+! Densha
+|-
+! Bousai
+|-
+! Mokuzoukaoku
+|-
+! Kikori Koya
+|-
+! Yashiro
+|-
+! Kofun
+|-
+! Chiisai Ie
+|-
+! Onsenmachi~hotspringsinn
+|-
+! Shuudannoujou
+|-
+! Shoko
+|-
+! Soushi
+|-
+! Tsukurizakaya
+|-
+! Eki Tochi
+|-
+! Chuugata Chisho
+|-
+! Kumonjo
+|-
+! Zenshou
+|-
+! Heisha
+|-
+! Ido
+|-
+! Onsenmachi~hotspringsinn_A_kitchen
+|-
+! Noujou Nojo
+|-
+! Jalab
+|-
+! Keban Muul~questpyramid_jail
+|-
+! Ajaw Cah~mayancamp_dig
+|-
+! Sa'at Tunich In-ti'a'al
+|-
+! Maya Otoch
+|-
+! Zil Otoch
+|-
+! Ah Kax Makan
+|-
+! Ah Tz'on Si' Took
+|-
+! Ajaw Cah~mayancamp_wall
+|-
+! K'eyem
+|-
+! K'as Maya
+|-
+! Kanan Otoch~questbarrack
+|-
+! K'u-nah
+|-
+! Kanan Otoch~questcamphouse
+|-
+! K'as Otoch
+|-
+! Chak Muul
+|-
+! Maize Makan
+|-
+! Kak Actun~questcave
+|-
+! Uxul Otoch
+|-
+! Keban Muul~questpyramid_guards
+|-
+! Hu'um-Noh
+|-
+! Ah Waay Su'uk~mayanshamangrounds
+|-
+! Ch'en~lonemayancave
+|-
+! Ka'kau' Makan
+|-
+! K'uhul Jalab
+|-
+! Yalam Otoch
+|-
+! Sa'at Maya Maize Makan
+|-
+! Ajaw Cah~mayancamp_innerguard
+|-
+! Muul~lonemayanpyramid
+|-
+! Chak
+|-
+! Ix La' Nah
+|-
+! Cha'an Ka'nal~mayanwatchtower
+|-
+! Ah Waay Su'uk~lonemayanshaman
+|-
+! Sa'at Muul
+|-
+! Noh Kuuch
+|-
+! Kan Cha'an
+|-
+! Muul~mayanplayerpyramid
+|-
+! Ch'en~mayancave
+|-
+! Ciwic
+|-
+! Ajaw Cah~mayancamp_outerguard
+|-
+! K'as Koloh-che'
+|-
+! Cha'an Ka'nal~questguardtower
+|-
+! Pwes
+|-
+! Ni'Nah
+|-
+! Maya Makan
+|-
+! Ajaw Cah~mayancamp
+|-
+! K'in Pak
+|-
+! Sa'at Maya Otoch
+|-
+! Tunich In-ti'a'al
+|-
+! Chanan Nah
+|-
+! B'aat Winik Nah
+|-
+! Muul~mayanpyramid
+|-
+! Chumuk Kuuch
+|-
+! Kob Took
+|-
+! K'aax
+|-
+! Mehen Kuuch
+|-
+! Keban Muul~questpyramid_pit
+|-
+! Kak Actun~questcave_door
+|-
+! Ta'as Kob Took
+|-
+! Laak'Noh Nah
+|-
+! Keban Muul~questpyramid
+|-
+! Noh Muul
+|-
+! Hach Noh Nah
+|-
+! Hach Noh Otoch
 |-
 ! Grand terrain
 |-
@@ -361,215 +571,5 @@
 ! Fort~fort
 |-
 ! Anomalie Deux
-|-
-! Bari saajisa
-|-
-! Choti saajisa
-|-
-! Puraalekhagar
-|-
-! Sena-Nivaas
-|-
-! Pandit ka Ghar
-|-
-! Lakarhara ka Ghar
-|-
-! Sainik ka Ghar
-|-
-! Bangla
-|-
-! Mahal~playerpalace
-|-
-! Inta bhatta
-|-
-! Bhare Ghar
-|-
-! Chota ghar
-|-
-! Uphar ghar
-|-
-! Muurtikaar ka Ghar
-|-
-! Dusra Ghar
-|-
-! Saray
-|-
-! Chota Mandir
-|-
-! Mukhiya ka Ghar
-|-
-! Baoli
-|-
-! Purana Qila
-|-
-! Bazaar
-|-
-! Sadhu ke Peer
-|-
-! Mahal~palace
-|-
-! Kisaan ka Ghar
-|-
-! Sunsan har
-|-
-! Saraay
-|-
-! Gannaa baagaana
-|-
-! Masaalaa udyaana
-|-
-! Sena ka Bhati
-|-
-! Sikaar
-|-
-! Qila ka Bhati
-|-
-! Kunja
-|-
-! Gaanv ka Mandir
-|-
-! Visaala saajisa
-|-
-! Bhati
-|-
-! Adivasi ka Ghar
-|-
-! Tandurust
-|-
-! Qila
-|-
-! Sunsan Saray
-|-
-! Chota Saraay
-|-
-! Dhaan
-|-
-! Jalab
-|-
-! Keban Muul~questpyramid_jail
-|-
-! Ajaw Cah~mayancamp_dig
-|-
-! Sa'at Tunich In-ti'a'al
-|-
-! Maya Otoch
-|-
-! Zil Otoch
-|-
-! Ah Kax Makan
-|-
-! Ah Tz'on Si' Took
-|-
-! Ajaw Cah~mayancamp_wall
-|-
-! K'eyem
-|-
-! K'as Maya
-|-
-! Kanan Otoch~questbarrack
-|-
-! K'u-nah
-|-
-! Kanan Otoch~questcamphouse
-|-
-! K'as Otoch
-|-
-! Chak Muul
-|-
-! Maize Makan
-|-
-! Kak Actun~questcave
-|-
-! Uxul Otoch
-|-
-! Keban Muul~questpyramid_guards
-|-
-! Hu'um-Noh
-|-
-! Ah Waay Su'uk~mayanshamangrounds
-|-
-! Ch'en~lonemayancave
-|-
-! Ka'kau' Makan
-|-
-! K'uhul Jalab
-|-
-! Yalam Otoch
-|-
-! Sa'at Maya Maize Makan
-|-
-! Ajaw Cah~mayancamp_innerguard
-|-
-! Muul~lonemayanpyramid
-|-
-! Chak
-|-
-! Ix La' Nah
-|-
-! Cha'an Ka'nal~mayanwatchtower
-|-
-! Sa'at Muul
-|-
-! Ah Waay Su'uk~lonemayanshaman
-|-
-! Noh Kuuch
-|-
-! Muul~mayanplayerpyramid
-|-
-! Kan Cha'an
-|-
-! Ch'en~mayancave
-|-
-! Ciwic
-|-
-! Ajaw Cah~mayancamp_outerguard
-|-
-! K'as Koloh-che'
-|-
-! Cha'an Ka'nal~questguardtower
-|-
-! Pwes
-|-
-! Ni'Nah
-|-
-! Maya Makan
-|-
-! Ajaw Cah~mayancamp
-|-
-! K'in Pak
-|-
-! Sa'at Maya Otoch
-|-
-! Tunich In-ti'a'al
-|-
-! Chanan Nah
-|-
-! B'aat Winik Nah
-|-
-! Muul~mayanpyramid
-|-
-! Chumuk Kuuch
-|-
-! Mehen Kuuch
-|-
-! K'aax
-|-
-! Kob Took
-|-
-! Keban Muul~questpyramid_pit
-|-
-! Kak Actun~questcave_door
-|-
-! Ta'as Kob Took
-|-
-! Laak'Noh Nah
-|-
-! Keban Muul~questpyramid
-|-
-! Noh Muul
-|-
-! Hach Noh Nah
-|-
-! Hach Noh Otoch
 |-
 |}

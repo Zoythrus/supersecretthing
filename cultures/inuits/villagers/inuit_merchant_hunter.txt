@@ -8,7 +8,7 @@ tag=foreignmerchant
 baseheight=0.95
 
 texture=textures/entity/inuit/inuit_hunter.png
-texture=textures/entity/inuit/inuit_hunter2.png
+texture=textures/entity/inuit/inuit_hunter1.png
 
 goal=gorest
 goal=chat
